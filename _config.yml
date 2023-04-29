@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                   : "Shan Luo"
+title                   : "付中涛"
 title_separator          : "-"
 name                     : &name "Shan Luo"
 description              : &description "An enthusiastic robotics researcher"
@@ -85,8 +85,8 @@ author:
   name             : "Shan Luo"
   avatar           : "profile.png"
   bio              : "An enthusiastic robotics researcher at King's College London"
-  location         : "London, UK"
-  employer         : "King's College London"
+  location         : "中国，武汉"
+  employer         : "武汉工程大学"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=ArnkrbwAAAAJ&hl=en"
   email            : shan.luo@kcl.ac.uk
