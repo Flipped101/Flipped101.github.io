@@ -12,8 +12,8 @@ main:
   - title: "团队成员"
     url: /people/
 
-  - title: "Opportunities"
-    url: /opportunities/
+  # - title: "Opportunities"
+  #   url: /opportunities/
 
 
   - title: "荣誉奖项"
