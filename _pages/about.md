@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "关于我"
+excerpt: "关于我"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,64 +9,72 @@ redirect_from:
 toc: true
 ---
 
-I am currently a Senior Lecturer (Associate Professor) in Robotics at the Department of Engineering, King's College London. I am an enthusiastic and dedicated researcher doing research on machine learning and computer vision algorithms with applications in robotics, e.g., robot perception, object recognition & localisation, and multimodal sensing fusion.
+副教授，武汉工程大学  <br>
+机电工程学院，智能制造中心203室 <br>
+邮箱: hustfzt@gmail.com   &nbsp;&nbsp;电话: 18162753192<br>
+地址: 湖北省武汉市东湖新技术开发区光谷一路206号（430205）
 
-I was a Lecturer (Assistant Professor) at the Department of Computer Science, the University of Liverpool, from 2018 to 2021, and was Director for the smARTLab at the Department. Prior to that, I was a Postdoctoral Research Fellow at Harvard University from 2017 to 2018, and at the University of Leeds from 2016 to 2017. I received the PhD degree in Robotics from King's College London, in 2016. I was a Visiting Scientist at the Computer Science and Artificial Intelligence Laboratory (CSAIL), MIT, in 2016. I am a Fellow of the Higher Education Academy (FHEA).
 
-## Contact
-Email: shan.luo at kcl.ac.uk  
+## 研究兴趣
 
-## Openings
-* PhD Opening: [NMES PhD Studentships](https://www.kcl.ac.uk/study-legacy/funding/phd-studentships-in-faculty-of-natural-mathematics-engineering-sciences)
+机器人在制造和医疗领域的理论和应用，包括机器人运动学/动力学，机器人-机器人/人协作及多模态感知等，寻找先进算法与最终质量之间的内在联系，使机器人系统得到高效、精确控制，并实现机器人高灵活性。
 
-* <s> PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available. Deadline: 2nd January 2023 (early submission is strongly recommended). </s>
+## 教育背景
 
-* [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)
+* 2010年9月至2016年3月，华中科技大学，机械电子工程，博士（硕博连读）
 
-* [Fulbright Postgraduate Scholarship (for American students)](https://www.kcl.ac.uk/study-legacy/funding/fulbright-postgraduate-scholarship)
+* 2006年9月至2010年6月，河南科技大学，机械设计制造及其自动化，学士
 
-* [Visiting Research Stuentships](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)
+## 工作经历
 
-* <s> Postdoctoral Fellowship: KC Wong Fellowship 2023, open to existing post-doc researchers at institutions in the People’s Republic of China (PRC),  Deadline: 17 February 2023. Interested candidates can send an email to me with a copy of your CV. </s>
+* 2021年11月至今，武汉工程大学，副教授
+* 2016年6月至2021年11月，武汉工程大学，讲师
+* 2019年12月至2020年12月，伦敦国王学院，博士后
 
-Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
+## 主持或参与的科研项目
 
-## [News](/news/)
-* Apr 2023: Our work on simulating optical tactile sensors of complex morphologies has been accepted to RSS 2023 conference, congratulations to Daniel and the team!
-* Apr 2023: Our paper on domain adaptation for Sim2Real transfer of tactile images is accepted to IEEE Transactions on Measurement and Instrumentation, congratulations to Kun and the team!
-* Mar 2023: Our TouchRoller paper is accepted to Sensors, congratulations to Guanqun and the team! [paper link](https://www.mdpi.com/1424-8220/23/5/2661)
-* Feb 2023: We will organise a Special Issue in Tactile Robotics at IEEE Transactions on Robotics (T-RO), stay tuned!
-* Feb 2023: I have been selected to join the [UKRI Future Leaders Fellows Development Network's PATHWAYS programme](https://www.flfdevnet.com/2022/12/01/the-networks-new-pathway-programme/).
-* Jan 2023: Two papers accepted to ICRA 2023, congratulations to Guanquan, Jongmin, and the team!
-* Jan 2023: Our application to the [Robot Live Lab](https://www.ukras.org.uk/robotics-week/robot-lab-live/) event has been successful, stay tuned on our live streaming of robotics research at our [Centre for Robotics Research](https://www.kcl.ac.uk/research/core)!
-* Jan 2023: Our paper on dynamic path planning is accepted to Sustainable Energy Technologies and Assessments, congratulations to Henry and the team! [paper link](https://authors.elsevier.com/a/1gQNj7tDQ9OZ2p)
-* Jan 2023: Our Tacchi paper has been accepted to RA-L, congratulations to Zixi and the team! [website](https://github.com/zixichen007115/Tacchi)
-* Dec 2022: Our ViTac workshop has been accepted to ICRA 2023, see you in London!
-* Dec 2022: Congratulations to Yiming, Hai-Ning and the team for winning the **Best Paper Award** at ACM SIGGRAPH VRCAI 2022 for our paper "Teleoperation of a Fast Omnidirectional Unmanned Ground Vehicle in the Cyber-Physical World via a VR Interface"!
-* Nov 2022: Welcome Zhenxi (Nathan) to join our group!
-* Nov 2022: Our paper on Skill Generalization of Tubular Object Manipulation with Tactile Sensing and Sim2Real Learning has been accepted to Robotics and Autonomous Systems, congratulations to Kun and the team!
-* Nov 2022: I will give a talk at [the 4th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/), join us on 12th and 13th Jan 2023 in Bristol!
-* Oct 2022: We start a new one-year project funded by Unilever!
-* Oct 2022: I am invited to give a keynote talk at the [French research group in Robotics (GdR)](https://www.gdr-robotique.org/) days.
-* Oct 2022: I am invited to give an invited talk at Humanoid Robotics Forum.
-* Sep 2022: I will be an Associate Editor for ICRA 2023.
-* Aug 2022: I am now on [the IET Robotics and Mechatronics Technical Network Committee](https://engx.theiet.org/technical-networks/mechrob)! 
-* Aug 2022: Our paper on vision guided tactile poking for transparent object grasping is accepted to IEEE/ASME Transactions on Mechatronics (T-Mech), congratulations to Jiaqi and the team! [[Paper]](https://arxiv.org/abs/2208.09743) [[Website]](https://sites.google.com/view/tactilepoking)
-* Jul 2022: I am now a UKRI EPSRC Peer Review College member.
-* Jul 2022: Our A4T paper has been selected as a finalist for the **Best Student Paper Award** at CASE 2022, vey well done Jiaqi! [[Paper]](https://arxiv.org/abs/2207.04907) [[Website]](https://sites.google.com/view/affordance4trans/home?authuser=0)
-* Jul 2022: Our paper on long-tailed instance segmentation is accepted to ECCV 2022, congratulations to Kostas and the team! [[Paper]](https://arxiv.org/abs/2207.10936) [[Website]](https://github.com/kostas1515/GOL)
-* Jun 2022: Our paper on visual-tactile multimodality for following deformable objects is accepted to IROS 2022, congratulations to Leszek and Siyuan! [[Paper]](https://arxiv.org/abs/2204.00117) [[Website]](https://github.com/lpecyna/SoftSlidingGym)
-* Jun 2022: Our paper on hierarchical Affordance detection for Transparent object depth reconstruction and grasping (A4T) is accepted to CASE 2022 and Robotics and Automation Letters (RA-L), congratulations to Jiaqi and the team! [[Paper]](https://arxiv.org/abs/2207.04907) [[Website]](https://sites.google.com/view/affordance4trans/home?authuser=0)
-* Welcome Jongmin to join our group!
-* Apr 2022: One paper accepted to IROS 2022 and Robotics and Automation Letters (RA-L), congratulations to Min and the team! 
-* Apr 2022: Our book "[Tactile Sensing, Skill Learning, and Robotic Dexterous Manipulation](https://www.elsevier.com/books/tactile-sensing-skill-learning-and-robotic-dexterous-manipulation/li/978-0-323-90445-2)" is online!
-* Mar 2022: One paper accepted to Pattern Recognition, congratulations to Jimin and the team!
-* Feb 2022: I am invited to serve as an Associate Editor for IROS 2022.
-* Feb 2022: Our Special Issue on "Biomimetic Perception, Cognition, and Control: From Nature to Robots" in Robotics and Automation Magazine closes on 1st Feb, 2022.
-* Jan 2022: One paper accepted to ICRA 2022 on masked tactile image generation, congrats to Tudor and Daniel! The dataset and code will be made available soon. Please stay tuned. [[Paper]](https://arxiv.org/abs/2112.01807) [[Website]](https://danfergo.github.io/gelsight-simulation/)
-* Jan 2022: One paper accepted to Robotics and Autonomous Systems, congrats to Kun and the team!
-* Dec 2021 - One paper accepted to IEEE Transactions on Haptics, congrats to Hai-Ning and the team!
-* Nov 2021 - Started my new position as Senior Lecturer at King's College London.
+[1]	湖北省技术创新计划重点研发专项，智能商品零售系统关键技术研究与应用，2023/01-2025/12，主持，在研。 <br>
+[2]	国家青年基金项目，51805380，基于Clifford代数的复杂曲面机器人铣削轨迹误差补偿策略研究，2019/01-2021/12，主持，已结题。 <br>
+[3]	湖北省青年基金项目，2017CFB346，面向相贯线曲线焊接的多机器人协作运动控制研究，2018/01-2019/12，主持，已结题。 <br>
+[4]	国家重点实验室开放基金，DMETKF2022019，基于装配技能学习的双臂协作机器人自适应柔顺控制研究，2022/01-2023/12, 主持，在研。 <br>
+[5]	中英国际合作与交流项目，IEC\NSFC\211345，Precise Trajectory-Tracking Control for Robotic Seam Welding based on Multi-Sensor Fusion，2022/4-2024/3，中方负责人，在研。 <br>
+[6]	国家面上基金项目，51875415，复杂空间曲线型D类焊缝的多机器人协调运动轨迹生成及其自学习控制，2019/01-2022/12，参与。 <br>
+[7]	湖北省创新群体项目，2019CFA026，面向大型化工装备的多机器人智能焊割一体化技术研究与应用，2019/1-2022/12，参与。 <br>
+[8]	国家重点研发计划“智能机器人”专项，2019YFB1302502，子课题“人机协作范式与作业优化”，2019/12-2022/11, 参与。 <br>
+[9]	英国EPSRC项目, EP/P026087/1, Error-propagation Based Geometrical Quality Prediction and Control Strategy for Complex Manufacturing Processes Using Parallel Kinematic Machines, 2017.7-2021/6, 参与。
 
-Please visit [News](/news/) for all the news.
+## 发表的论文与授权专利
 
+### 期刊论文
+
+[1]	 J. Pan, Z. Fu*, H. Yue, X. Lei, M. Li and X. Chen, Toward Simultaneous Coordinate Calibrations of AX=YB Problem by the LMI-SDP Optimization, IEEE Transactions on Automation Science and Engineering, 2022, doi: 10.1109/TASE.2022.3207771.<br>
+[2]	付中涛，饶书航，潘嘉滨，李淼，黄涛，陈绪兵；基于LMI-SDP优化的机器人手眼关系精确求解，机械工程学报，2023, 59 (3)，1-6.<br>
+[3]	E Spyrakos-Papastavridis; Z Fu; J S Dai; Power-Shaping Model-Based Control With Feedback Deactivation for Flexible-Joint Robot Interaction, IEEE Robotics and Automation Letters, 2022, 7(2): 4566-4573.<br>
+[4]	Z Fu, E Spyrakos-Papastavridis, Y Lin, J Dai. A Lie theory based dynamic parameter identification methodology for serial manipulators. IEEE/ASME Transactions on Mechatronics, 2021, 26(5): 2688-2699.<br>
+[5]	J. Xiong, Z Fu*, et al. Simulation and Trajectory Planning of Dual-Robot Collaborative Welding for Intersecting Pipes. The International Journal of Advanced Manufacturing Technology, 2020.111, 2231-2241.<br>
+[6]	J Pan; Z Fu*; J Xiong;X Lei; K Zhang; X Chen; RobMach: G-Code-based off-line programming for robotic machining trajectory generation, The International Journal of Advanced Manufacturing Technology, 2022, 118: 2497-2511. <br>
+[7]	Z Fu, J Pan, E Spyrakos-Papastavridis, X Chen, M Li. A dual quaternion-based approach for coordinate calibration of dual robots in collaborative motion. IEEE Robotics and Automation Letters, 2020.<br>
+[8]	Z Fu, JS Dai, K Yang, X Chen, P López-Custodio. Analysis of unified error model and simulated parameters calibration for robotic machining based on Lie theory. Robotics and Computer-Integrated Manufacturing 61, 101855, 2020.<br>
+[9]	Z Fu, Wenyu Yang, Zhen Yang. Solution of inverse kinematics for 6R robot manipulator with offset wrist based on geometric algebra, Journal of Mechanisms and Robotics- Transactions of The ASME, 2013. 5(3): 10-17.<br>
+
+### 会议论文
+
+[1]	Z Fu, E Spyrakos-Papastavridis, Y Lin, JS Dai. Analytical Expressions of Serial Manipulator Jacobians and their High-Order Derivatives based on Lie Theory. 2020 IEEE International Conference on Robotics and Automation (ICRA), Pairs, France.<br>
+[2]	Z Fu, W Yang, X Wang, J Leopold. Analytical modelling of milling forces for helical end milling based on a predictive machining theory. 2015 International Conference of Modelling of Machining Operation (CMMO), Karlsruhe, Germany.<br>
+[3]	J Xiong, Z Fu, M Li, Z Gao, X Zhang, X Chen. Trajectory-Smooth Optimization and Simulation of Dual-Robot Collaborative Welding. The 14th International Conference on Intelligent Robotics and Applications (ICIRA2021), Yantai, China.<br>
+[4]	X Zhang, Z Fu, G Wang. Design and Development of a Novel 3-DOF Parallel Robotic Polishing End-effector. The 6th IEEE International Conference on Advanced Robotics and Mechatronics(ARM2021), Chongqing, China.
+
+### 邀请报告
+
+[1]	Robot Flexible Manufacturing: Data and Algorithm, Sino-Swiss AI Conference, 2018.<br>
+[2]	Robot in Advanced Manufacturing: Theory and Application, HAUST-graduation 10th anniversary, 2020.<br>
+
+### 授权的专利与软著
+
+[1]	一种刀具轨迹生成方法、装置和铣削机器人ZL202010069844.7<br>
+[2]	一种机器人雅可比矩阵计算方法装置及存储介质ZL201910223255.7<br>
+[3]	一种机器人自动分步装配插销方法、系统和双臂机器人ZL201910556696.9<br>
+[4]	一种步进控制方法、装置、打磨机器人和可读存储介质ZL201910710011.1<br>
+[5]	一种用于机器人装配的点激光线标定方法及系统ZL201811562980.9<br>
+[6]	机器人铣削后置处理软件V1.0，2019SR1168645<br>
+[7]	机器人磨削路径规划软件V1.0，2021SR1589113<br>
