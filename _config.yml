@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-cn"
-title                   : "付中涛"
+title                    : "付中涛"
 title_separator          : "-"
 name                     : &name "付中涛"
 description              : &description "机器人研究爱好者"
