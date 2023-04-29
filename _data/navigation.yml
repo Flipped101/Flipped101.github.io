@@ -1,31 +1,31 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "研究动态"
     url: /research/
     
-  - title: "Publications"
+  - title: "学术成果"
     url: /publication/
  #    children:
  #      - title: "Key Generation Publication"
  #        url: /posts/2019/04/blog-post-keygen_liv_pub/
 
-  - title: "Lab members"
+  - title: "团队成员"
     url: /people/
 
   - title: "Opportunities"
     url: /opportunities/
 
 
-  - title: "Funding & Awards"
+  - title: "荣誉奖项"
     url: /funding-and-awards/
 
-  - title: "Professional Activities"
+  - title: "学术活动"
     url: /professional-activities/
 
 #  - title: "CV"
 #    url: /cv/
 
-  - title: "Teaching"
+  - title: "教学"
     url: /teaching/
 
  # - title: "Blog"
