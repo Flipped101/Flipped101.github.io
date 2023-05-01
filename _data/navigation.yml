@@ -3,8 +3,6 @@ main:
   - title: "研究动态"
     url: /research/
     
-  - title: "科研项目"
-    url: /sci-research/
 
   - title: "学术成果"
     url: /publication/
@@ -18,6 +16,8 @@ main:
   # - title: "Opportunities"
   #   url: /opportunities/
 
+  - title: "科研项目"
+    url: /sci-research/
 
   - title: "荣誉奖励"
     url: /funding-and-awards/
