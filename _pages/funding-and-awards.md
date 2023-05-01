@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "荣誉奖项"
 permalink: /funding-and-awards/
 author_profile: true
 ---
+
+ {% include toc %}
 
 1.省经信厅第三批“科技副总”；<br>
 2.湖北省人工智能学会理事、湖北省机械工程学会设计与传动专业委员会理事、亚太人工智能学会武汉分会理事、中国自动化学会会员，信息技术新工科产学研联盟机器人专业工作委员会委员；<br>

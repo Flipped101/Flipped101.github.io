@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "学术成果"
 permalink: /publication/
 author_profile: true
 toc: true
@@ -8,25 +8,26 @@ toc: true
 
 {% include toc %}
 
-## 1.论文（详见：https://scholar.google.com/citations?hl=zh-CN&user=rdyz9EMAAAAJ&view_op=list_works&sortby=pubdate）
+## 1.论文
+（详见：[https://scholar.google.com/citations?hl=zh-CN&user=rdyz9EMAAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=zh-CN&user=rdyz9EMAAAAJ&view_op=list_works&sortby=pubdate)）
 
-[1]	E Spyrakos-Papastavridis; Z Fu; J S Dai; Power-Shaping Model-Based Control With Feedback Deactivation for Flexible-Joint Robot Interaction, IEEE Robotics and Automation Letters, 2022, 7(2): 4566-4573.
-[2]	Z Fu; J Pan; E Spyrakos-Papastavridis; Y Lin; X Zhou; X Chen; J S Dai; A Lie theory based dynamic parameter identification methodology for serial manipulators, IEEE/ASME Transactions on Mechatronics, 2021, 26(5): 2688-2699.
-[3]	J Pan; Z Fu*; J Xiong; X Lei; K Zhang; X Chen; RobMach: G-Code-based off-line programming for robotic machining trajectory generation, The International Journal of Advanced Manufacturing Technology, 2021.
-[4]	Z Fu; E Spyrakos-Papastavridis; Y Lin; J S Dai; Analytical Expressions of Serial Manipulator Jacobians and their High-Order Derivatives based on Lie Theory, 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020-5-31~2020-6-5.
-[5]	Z Fu; J Pan; E Spyrakos-Papastavridis; X Chen; M Li; A Dual Quaternion-Based Approach for Coordinate Calibration of Dual Robots in Collaborative Motion, IEEE Robotics and Automation Letters, 2020, 5(3): 4086-4093. 
+[1]	E Spyrakos-Papastavridis; Z Fu; J S Dai; Power-Shaping Model-Based Control With Feedback Deactivation for Flexible-Joint Robot Interaction, IEEE Robotics and Automation Letters, 2022, 7(2): 4566-4573.<br>
+[2]	Z Fu; J Pan; E Spyrakos-Papastavridis; Y Lin; X Zhou; X Chen; J S Dai; A Lie theory based dynamic parameter identification methodology for serial manipulators, IEEE/ASME Transactions on Mechatronics, 2021, 26(5): 2688-2699.<br>
+[3]	J Pan; Z Fu*; J Xiong; X Lei; K Zhang; X Chen; RobMach: G-Code-based off-line programming for robotic machining trajectory generation, The International Journal of Advanced Manufacturing Technology, 2021.<br>
+[4]	Z Fu; E Spyrakos-Papastavridis; Y Lin; J S Dai; Analytical Expressions of Serial Manipulator Jacobians and their High-Order Derivatives based on Lie Theory, 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020-5-31~2020-6-5.<br>
+[5]	Z Fu; J Pan; E Spyrakos-Papastavridis; X Chen; M Li; A Dual Quaternion-Based Approach for Coordinate Calibration of Dual Robots in Collaborative Motion, IEEE Robotics and Automation Letters, 2020, 5(3): 4086-4093. <br>
 [6]	Z Fu; J S Dai; K Yang; X Chen; P López-Custodio; Analysis of unified error model and simulated parameters calibration for robotic machining based on Lie theory, Robotics and Computer-Integrated Manufacturing, 2019, 61(101855): 1-14. 
 
 
 
 ## 2.专利与软著
 
-[1]	一种刀具轨迹生成方法、装置和铣削机器人ZL202010069844.7
-[2]	一种机器人雅可比矩阵计算方法装置及存储介质ZL201910223255.7
-[3]	一种机器人自动分步装配插销方法、系统和双臂机器人ZL201910556696.9
-[4]	一种步进控制方法、装置、打磨机器人和可读存储介质ZL201910710011.1
-[5]	一种用于机器人装配的点激光线标定方法及系统ZL201811562980.9
-[6]	机器人铣削后置处理软件V1.0，2019SR1168645
+[1]	一种刀具轨迹生成方法、装置和铣削机器人ZL202010069844.7<br>
+[2]	一种机器人雅可比矩阵计算方法装置及存储介质ZL201910223255.7<br>
+[3]	一种机器人自动分步装配插销方法、系统和双臂机器人ZL201910556696.9<br>
+[4]	一种步进控制方法、装置、打磨机器人和可读存储介质ZL201910710011.1<br>
+[5]	一种用于机器人装配的点激光线标定方法及系统ZL201811562980.9<br>
+[6]	机器人铣削后置处理软件V1.0，2019SR1168645<br>
 [7]	机器人磨削路径规划软件V1.0，2021SR1589113
 
 

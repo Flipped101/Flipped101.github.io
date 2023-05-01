@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "研究动态"
 permalink: /research/
 author_profile: true
 toc: true
