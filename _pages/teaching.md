@@ -1,12 +1,16 @@
 ---
 layout: archive
-title: "Teaching"
+title: "教学"
 permalink: /teaching/
 author_profile: true
 toc: true
 ---
 
-# 6CCE3ROS/7CCEMROB - Robotic Systems
+ {% include toc %}
+
+ 
+
+<!-- # 6CCE3ROS/7CCEMROB - Robotic Systems
 * UGT (Level Three)/PGT
 * King's College London
 * Semester 2, 2022 - present
@@ -19,4 +23,4 @@ toc: true
 # COMP532 - Machine Learning
 * PGT 
 * University of Liverpool.
-* Semester 2, 2018 - 2021 
+* Semester 2, 2018 - 2021  -->
