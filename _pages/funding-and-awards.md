@@ -1,9 +1,44 @@
 ---
 layout: archive
-title: "Funding And Awards"
+title: ""
 permalink: /funding-and-awards/
 author_profile: true
 ---
+
+1.省经信厅第三批“科技副总”；<br>
+2.湖北省人工智能学会理事、湖北省机械工程学会设计与传动专业委员会理事、亚太人工智能学会武汉分会理事、中国自动化学会会员，信息技术新工科产学研联盟机器人专业工作委员会委员；<br>
+3.国家自然基金函评专家及TRO、TMech、ICRA、IROS、RAS、RA-L、MMT、Robotica、IMechE等机器人权威期刊的评审人；<br>
+4.武汉工程大学“青年骨干人才计划”<br>
+5.机器人顶级会议ICRA2021和ICoIAS分会场主席；<br>
+6.《装备制造技术》青年编委；<br>
+7.2016机器人抓取与操作挑战赛世界第二名；<br>
+8.2021年湖北省科技进步二等奖；<br>
+9.2021年中国自动化学会科技进步一等奖；<br>
+10.2022年中国发明协会发明创新创业二等奖；<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 # Ongoing Projects
 * Principal Investigator, EPSRC New Investigator Award, [ViTac: Visual-Tactile Synergy for Handling Flexible Materials](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) , £536k, Apr 2021 to Apr 2024
 * Principal Investigator (at King's), EPSRC Innovate UK SMART Grant, [ARRES PREVENT: The World-First Autonomous Road Repair Vehicle](https://www.robotiz3d.com/smart.html) , £272k, Oct 2021 to Sep 2023
@@ -35,4 +70,4 @@ author_profile: true
 * 3rd Prize, RoboMaster 2019 International Regional Competition, GMaster, Xi’an Jiaotong-Liverpool University & University of Liverpool, RoboMaster 2019 International Regional
 Competition
 * Distinguished Program Committee member, International Joint Conference on Artificial Intelligence (IJCAI) 2019
-* BCS Academy New Appointments Grant Scheme Award 2018
+* BCS Academy New Appointments Grant Scheme Award 2018 -->
