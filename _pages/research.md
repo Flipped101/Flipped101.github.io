@@ -20,8 +20,20 @@ toc: true
 智能机器人在制造和医疗领域的理论、算法和应用，包括机器人运动学/动力学，机器人-机器人/人协作及多模态感知等，寻找先进算法与最终质量之间的内在联系，使机器人系统得到高效、精确控制，并实现机器人高灵活性。
 <div style="text-align: center;">
 <img align="" width="83%" style="" src="{{ site.url }}/images/research/研究方向01.png" alt="...">
+</div>
+
+## 2.研究进展
+
+<div style="text-align: center;">
+<img align="" width="83%" style="" src="{{ site.url }}/images/research/研究进展1.png" alt="...">
+<br>
+
+<video>
+     <source src="{{ site.url }}/images/research/研究进展1.mp4" type="video/MP4">
+</video>
 
 </div>
+
 
 <img align="left" width="200" style="" src="{{ site.url }}/images/research/GelTip.jpeg" alt="...">
 GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation <br />
