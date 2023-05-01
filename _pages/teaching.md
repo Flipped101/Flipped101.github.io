@@ -14,10 +14,10 @@ toc: true
 详情请见：（[http://coursehome.zhihuishu.com/courseHome/1000006714#teachTeam](http://coursehome.zhihuishu.com/courseHome/1000006714#teachTeam)）
 
 <div style="text-align: center;">
-<img align="" width="90%" style="" src="{{ site.url }}/images/teaching/教学1.png" alt="...">
+<img align="" width="100%" style="" src="{{ site.url }}/images/teaching/教学1.png" alt="...">
 <br>
 <br>
-<img align="" width="90%" style="" src="{{ site.url }}/images/teaching/教学2.png" alt="...">
+<img align="" width="100%" style="" src="{{ site.url }}/images/teaching/教学2.png" alt="...">
 <br>
 </div>
 
@@ -25,7 +25,7 @@ toc: true
 
 简介：24学时，机器人工程专业
 <div style="text-align: center;">
-<img align="" width="90%" style="" src="{{ site.url }}/images/teaching/教学3.png" alt="...">
+<img align="" width="100%" style="" src="{{ site.url }}/images/teaching/教学3.png" alt="...">
 <br>
 </div>
 ## 3.《机器人操作系统》
@@ -34,9 +34,9 @@ toc: true
 详情请见：（[古月居：https://www.guyuehome.com/ ](https://www.guyuehome.com/)）
 
 <div style="text-align: center;">
-<img align="" width="90%" style="" src="{{ site.url }}/images/teaching/教学4.png" alt="...">
+<img align="" width="100%" style="" src="{{ site.url }}/images/teaching/教学4.png" alt="...">
 <br>
 <br>
-<img align="" width="90%" style="" src="{{ site.url }}/images/teaching/教学5.png" alt="...">
+<img align="" width="100%" style="" src="{{ site.url }}/images/teaching/教学5.png" alt="...">
 <br>
 </div>

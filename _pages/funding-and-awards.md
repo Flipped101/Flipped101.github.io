@@ -5,8 +5,6 @@ permalink: /funding-and-awards/
 author_profile: true
 ---
 
- <!-- {% include toc %} -->
-
 1.省经信厅第三批“科技副总”；<br>
 2.湖北省人工智能学会理事、湖北省机械工程学会设计与传动专业委员会理事、亚太人工智能学会武汉分会理事、中国自动化学会会员，信息技术新工科产学研联盟机器人专业工作委员会委员；<br>
 3.国家自然基金函评专家及TRO、TMech、ICRA、IROS、RAS、RA-L、MMT、Robotica、IMechE等机器人权威期刊的评审人；<br>
