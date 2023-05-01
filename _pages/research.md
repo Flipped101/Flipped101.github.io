@@ -21,13 +21,14 @@ toc: true
 <div style="text-align: center;">
 <img align="" width="83%" style="" src="{{ site.url }}/images/research/研究方向01.png" alt="...">
 </div>
+<br>
 
 ## 2.研究进展
 
 <div style="text-align: center;">
 <img align="" width="83%" style="" src="{{ site.url }}/images/research/研究进展1.png" alt="...">
 <br>
-
+<br>
 <video controls width="83%">
      <source src="{{ site.url }}/images/research/研究进展1.mp4" type="video/MP4">
 </video>
@@ -35,6 +36,8 @@ toc: true
 </div>
 
 
+
+<!-- 
 <img align="left" width="200" style="" src="{{ site.url }}/images/research/GelTip.jpeg" alt="...">
 GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation <br />
 D.F. Gomes, Z. Lin, **S. Luo**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020. <br />
@@ -124,4 +127,4 @@ J. Jiang, G. Cao, A. Butterworth, T.-T. Do, **S. Luo**. IEEE/ASME Transactions o
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Gumbel.jpg" alt="...">
 Long-tailed Instance Segmentation using Gumbel Optimized Loss <br />
 K. P. Alexandridis, J. Deng, A. Nguyen, **S. Luo**. European Conference on Computer Vision (ECCV) 2022. <br />
-[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700349.pdf) [[code]](https://github.com/kostas1515/GOL) <br />
+[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700349.pdf) [[code]](https://github.com/kostas1515/GOL) <br /> -->
