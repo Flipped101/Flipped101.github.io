@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 toc: true
 ---
 
-The aim of our research group is to develop robots that can interact with the physical world safely and robustly. We leverage high-resolution tactile sensing, visual understanding of objects in the scenes and robot learning to enable the robots to have such desirable capabilities. 
 
 <!-- {% include toc %} -->
 
@@ -16,15 +15,15 @@ The aim of our research group is to develop robots that can interact with the ph
 <img align="center" width="800" src="{{ site.url }}/images/WordCloudResearch.png" alt="...">
 <br />
  -->
-# 1.研究方向
+## 1.研究方向
 <div>
 智能机器人在制造和医疗领域的理论、算法和应用，包括机器人运动学/动力学，机器人-机器人/人协作及多模态感知等，寻找先进算法与最终质量之间的内在联系，使机器人系统得到高效、精确控制，并实现机器人高灵活性。
 
-<img align="middle" width="83%" style="" src="{{ site.url }}/images/research/研究方向01.png" alt="...">
+<img align="middle" width="83%" style="margin-right: 10px; position: relative;left: 50%;top: 50%;transform:translate(-50%,-50%);" src="{{ site.url }}/images/research/研究方向01.png" alt="...">
 
 </div>
 
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/GelTip.jpeg" alt="...">
+<img align="left" width="200" style="margin-right: 10px; position: relative;left: 50%;top: 50%;	transform:translate(-50%,-50%);" src="{{ site.url }}/images/research/GelTip.jpeg" alt="...">
 GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation <br />
 D.F. Gomes, Z. Lin, **S. Luo**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020. <br />
 [[paper]](https://arxiv.org/abs/2008.05404) [[website]](https://danfergo.github.io/geltip/) [[STL files]](https://danfergo.github.io/geltip/geltip2020_parts.zip)
