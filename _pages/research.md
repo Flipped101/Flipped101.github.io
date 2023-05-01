@@ -24,6 +24,9 @@ toc: true
 
 ## 2.研究进展
 
+### （1）机器人加工轨迹生成
+
+
 <div style="text-align: center;">
 <img align="" width="83%" style="" src="{{ site.url }}/images/research/研究进展1.png" alt="...">
 <br>
@@ -37,8 +40,23 @@ toc: true
 <video controls width="83%">
      <source src="{{ site.url }}/images/research/研究进展2.mp4" type="video/MP4">
 </video>
-
+<br>
 </div>
+
+### （2）软体手设计
+<div style="text-align: center;">
+
+<img align="" width="83%" style="" src="{{ site.url }}/images/research/研究进展2.jpg" alt="...">
+<br>
+<br>
+<video controls width="83%">
+     <source src="{{ site.url }}/images/research/研究进展3.mp4" type="video/MP4">
+</video>
+<br>
+</div>
+
+
+
 
 
 
