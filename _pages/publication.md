@@ -1,24 +1,79 @@
 ---
 layout: archive
-title: "Publication"
+title: ""
 permalink: /publication/
 author_profile: true
 toc: true
 ---
-My citation profile can be found in [Google Scholar](https://scholar.google.co.uk/citations?user=ArnkrbwAAAAJ&hl=en).
+
+{% include toc %}
+
+## 1.论文（详见：https://scholar.google.com/citations?hl=zh-CN&user=rdyz9EMAAAAJ&view_op=list_works&sortby=pubdate）
+
+[1]	E Spyrakos-Papastavridis; Z Fu; J S Dai; Power-Shaping Model-Based Control With Feedback Deactivation for Flexible-Joint Robot Interaction, IEEE Robotics and Automation Letters, 2022, 7(2): 4566-4573.
+[2]	Z Fu; J Pan; E Spyrakos-Papastavridis; Y Lin; X Zhou; X Chen; J S Dai; A Lie theory based dynamic parameter identification methodology for serial manipulators, IEEE/ASME Transactions on Mechatronics, 2021, 26(5): 2688-2699.
+[3]	J Pan; Z Fu*; J Xiong; X Lei; K Zhang; X Chen; RobMach: G-Code-based off-line programming for robotic machining trajectory generation, The International Journal of Advanced Manufacturing Technology, 2021.
+[4]	Z Fu; E Spyrakos-Papastavridis; Y Lin; J S Dai; Analytical Expressions of Serial Manipulator Jacobians and their High-Order Derivatives based on Lie Theory, 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020-5-31~2020-6-5.
+[5]	Z Fu; J Pan; E Spyrakos-Papastavridis; X Chen; M Li; A Dual Quaternion-Based Approach for Coordinate Calibration of Dual Robots in Collaborative Motion, IEEE Robotics and Automation Letters, 2020, 5(3): 4086-4093. 
+[6]	Z Fu; J S Dai; K Yang; X Chen; P López-Custodio; Analysis of unified error model and simulated parameters calibration for robotic machining based on Lie theory, Robotics and Computer-Integrated Manufacturing, 2019, 61(101855): 1-14. 
+
+
+
+## 2.专利与软著
+
+[1]	一种刀具轨迹生成方法、装置和铣削机器人ZL202010069844.7
+[2]	一种机器人雅可比矩阵计算方法装置及存储介质ZL201910223255.7
+[3]	一种机器人自动分步装配插销方法、系统和双臂机器人ZL201910556696.9
+[4]	一种步进控制方法、装置、打磨机器人和可读存储介质ZL201910710011.1
+[5]	一种用于机器人装配的点激光线标定方法及系统ZL201811562980.9
+[6]	机器人铣削后置处理软件V1.0，2019SR1168645
+[7]	机器人磨削路径规划软件V1.0，2021SR1589113
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- My citation profile can be found in [Google Scholar](https://scholar.google.co.uk/citations?user=ArnkrbwAAAAJ&hl=en).
 
 <!-- * Our publication in the area of key generation from wireless channels is summarized at [here](/keygen/keygen-pub/)
 * Our publication in the area of radio frequency fingerprinting identification is summarized at [here](/rffi/rffi-pub/) -->
 
-Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
+<!-- Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper. -->
 
 <!-- <sup>*</sup> denotes corresponding author. -->
 
-{% include toc %}
+
 
 <!-- # Preprint -->
 
-# 2023
+<!-- # 2023
 1. G. Cao, J. Jiang, N. Mao, D. Bollegala, M. Li, **S. Luo**, “Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation”, IEEE International Conference on Robotics and Automation (ICRA), 2023.
 2. J. Yu, H. Oh, S. Fichera, P. Paoletti, and **S. Luo**, “Multi-source Domain Adaptation for Unsupervised Road Defect Segmentation”, IEEE International Conference on Robotics and Automation (ICRA), 2023.
 3. Z. Chen, S. Zhang, **S. Luo**, F. Sun, and B. Fang, “Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors”, IEEE Robotics and Automation Letters, 2023.
@@ -89,4 +144,4 @@ Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
 15. **S. Luo**, W. Mou, K. Althoefer, H. Liu, “Rotation and translation invariant object recognition with a tactile sensor.” IEEE Sensors Conference, 1030 - 1033, 2014.
 16. M. Li, **S. Luo**, T. Nanayakkara, L.D. Seneviratne, P. Dasgupta, K. Althoefer, “Multi-fingered haptic palpation using pneumatic actuators.” Sensors and Actuators A: Physical, 218, 132-141, 2014.
 17. M. Li, **S. Luo**, L.D. Seneviratne, T. Nanayakkara, K. Althoefer, P. Dasgupta, “Haptics for multi-fingered palpation.”, IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2013.
-18. H. Xie, H. Liu, **S. Luo**, L.D. Seneviratne, K. Althoefer, “Fiber optics tactile array probe for tissue palpation.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2013.
+18. H. Xie, H. Liu, **S. Luo**, L.D. Seneviratne, K. Althoefer, “Fiber optics tactile array probe for tissue palpation.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2013. -->

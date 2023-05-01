@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "关于我"
+title: ""
 excerpt: "关于我"
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 toc: true
 ---
+
+## 关于我
 
 副教授，武汉工程大学  <br>
 机电工程学院，智能制造中心203室 <br>
