@@ -21,7 +21,6 @@ toc: true
 <div style="text-align: center;">
 <img align="" width="83%" style="" src="{{ site.url }}/images/research/研究方向01.png" alt="...">
 </div>
-<br>
 
 ## 2.研究进展
 
@@ -31,6 +30,12 @@ toc: true
 <br>
 <video controls width="83%">
      <source src="{{ site.url }}/images/research/研究进展1.mp4" type="video/MP4">
+</video>
+
+<br>
+<br>
+<video controls width="83%">
+     <source src="{{ site.url }}/images/research/研究进展2.mp4" type="video/MP4">
 </video>
 
 </div>
