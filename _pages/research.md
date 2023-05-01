@@ -55,6 +55,37 @@ toc: true
 <br>
 </div>
 
+### （3）双臂与遥操作机器人
+<div style="text-align: center;">
+
+<img align="" width="83%" style="" src="{{ site.url }}/images/research/研究进展3.jpg" alt="...">
+<br>
+<br>
+<video controls width="83%">
+     <source src="{{ site.url }}/images/research/研究进展4.mp4" type="video/MP4">
+</video>
+<br>
+<br>
+<video controls width="83%">
+     <source src="{{ site.url }}/images/research/研究进展5.mp4" type="video/MP4">
+</video>
+<br>
+</div>
+
+
+### （4）移动检测机器人
+<div style="text-align: center;">
+
+<img align="" width="83%" style="" src="{{ site.url }}/images/research/研究进展4.jpg" alt="...">
+<br>
+<br>
+<video controls width="83%">
+     <source src="{{ site.url }}/images/research/研究进展6.mp4" type="video/MP4">
+</video>
+<br>
+
+</div>
+
 
 
 
