@@ -3,6 +3,9 @@ main:
   - title: "研究动态"
     url: /research/
     
+  - title: "科研项目"
+    url: /sci-research/
+
   - title: "学术成果"
     url: /publication/
  #    children:
@@ -16,7 +19,7 @@ main:
   #   url: /opportunities/
 
 
-  - title: "荣誉奖项"
+  - title: "荣誉奖励"
     url: /funding-and-awards/
 
   - title: "学术活动"

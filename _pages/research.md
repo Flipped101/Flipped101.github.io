@@ -60,7 +60,7 @@ toc: true
 ### （3）双臂与遥操作机器人
 <div style="text-align: center;">
 
-<img align="" width="83%" style="" src="{{ site.url }}/images/research/研究进展3.jpg" alt="...">
+<img align="" width="83%" style="" src="{{ site.url }}/images/research/研究进展3.png" alt="...">
 <br>
 <br>
 <video controls width="83%">

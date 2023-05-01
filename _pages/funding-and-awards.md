@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "荣誉奖项"
+title: "荣誉奖励"
 permalink: /funding-and-awards/
 author_profile: true
 ---
