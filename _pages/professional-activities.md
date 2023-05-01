@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional Activities"
+title: "学术活动"
 permalink: /professional-activities/
 author_profile: true
 toc: true
