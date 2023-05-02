@@ -70,22 +70,23 @@ toc: true
 
 </tr><br><br>
 
+<!--   -----------第四行 ----------------------  -->
 
-<!-- <div style="text-align: center;">
+<tr>
 
-<div style="text-align: center; float: left;  margin:3% 0 0 15%;">
+<div style="text-align: center; float: left;  margin:4% 0 0 10%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/Sulei.jpg" alt="...">
 <br>Sulei
 </div>
 
-<div style="text-align: center; float: left;  margin:3% 0 0 12%;">
+<div style="text-align: center; float: left;  margin:4% 0 0 16%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/王法福.png" alt="...">
 <br>王法福
 </div>
 
-<div style="text-align: center; float: left;  margin:3% 0 0 12%;">
+<div style="text-align: center; float: right;  margin:4% 8% 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
 <br>陈飞扬
 </div>
 
-</div> -->
+</tr>
