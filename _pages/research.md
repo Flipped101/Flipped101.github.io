@@ -82,7 +82,7 @@ toc: true
 <img align="" width="83%" style="" src="{{ site.url }}/images/research/研究进展4.png" alt="...">
 <br>
 <br>
-<video controls width="50%">
+<video controls width="55%">
      <source src="{{ site.url }}/images/research/研究进展6.mp4" type="video/MP4">
 </video>
 <br>
