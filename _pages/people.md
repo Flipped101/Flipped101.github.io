@@ -65,9 +65,13 @@ toc: true
 </div>
 
 <div style="text-align: center; float: left; position:relative; margin:3% 0 0 12%;">
+<img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/文天.jpg" alt="...">
+<br>文天
+</div>
+<!-- <div style="text-align: center; float: left; position:relative; margin:3% 0 0 12%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
 <br>MOHAMED <br>IBRAHIM AHMED
-</div>
+</div> -->
 
 </div><br><br>
 
