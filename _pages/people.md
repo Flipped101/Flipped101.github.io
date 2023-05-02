@@ -5,6 +5,8 @@ permalink: /people/
 author_profile: true
 toc: true
 ---
+<div style="text-align: center;">
+
 
 
 <div style="text-align: center;">
@@ -24,6 +26,10 @@ toc: true
 <br>高志成
 </div>
 
+</div>
+
+<div style="text-align: center;">
+
 <div style="text-align: center; float: left; position:relative; margin:3% 0 0 12%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
 <br>饶书航
@@ -38,6 +44,10 @@ toc: true
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
 <br>陈碧宇
 </div>
+
+</div>
+
+<div style="text-align: center;">
 
 <div style="text-align: center; float: left; position:relative; margin:3% 0 0 12%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
@@ -54,6 +64,10 @@ toc: true
 <br>MOHAMED IBRAHIM AHMED
 </div>
 
+</div>
+
+<div style="text-align: center;">
+
 <div style="text-align: center; float: left; position:relative; margin:3% 0 0 12%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/Sulei.jpg" alt="...">
 <br>Sulei
@@ -68,5 +82,8 @@ toc: true
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
 <br>陈飞扬
 </div>
+
+</div>
+
 
 </div>
