@@ -6,25 +6,22 @@ author_profile: true
 toc: true
 ---
 
-<tr style="text-align: center;">
 
-<td>
+<td style="display: flex;justify-content: space-between;align-items: center;">
 
-<div style="text-align: center; ">
-<img align="" width="95%" style="border-radius: 5% 5% 5% 5%" src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
+<div style="text-align: center">
+<img align="" width="" style="border-radius: 5% 5% 5% 5%; margin: 0 20px;" src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
 <br>熊家豪（已毕业）
 </div>
 
 <div style="text-align: center; ">
-<img align="" width="95%" style="border-radius: 5% 5% 5% 5%" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
+<img align="" width="" style="border-radius: 5% 5% 5% 5%; margin: 0 20px;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
 <br>雷小榆
 </div>
 
 <div style="text-align: center; ">
-<img align="" width="95%" style="border-radius: 5% 5% 5% 5%" src="{{ site.url }}/images/people/高志成.jpg" alt="...">
+<img align="" width="" style="border-radius: 5% 5% 5% 5%; margin: 0 20px;" src="{{ site.url }}/images/people/高志成.jpg" alt="...">
 <br>高志成
 </div>
 
 </td>
-
-</tr>
