@@ -8,7 +8,7 @@ toc: true
 
 <!--   -----------第一行 ----------------------  -->
 
-<div>
+<td>
 
 <div style="text-align: center; float: left; position:relative; margin:4% 0 0 10%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
@@ -25,11 +25,11 @@ toc: true
 <br>高志成<br>
 </div>
 
-</div><br>
+</td><br>
 
 <!--   -----------第二行 ----------------------  -->
 
-<div>
+<td>
 
 <div style="text-align: center; float: left; position:relative; margin:4% 0 0 10%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
@@ -46,13 +46,13 @@ toc: true
 <br>陈碧宇<br>
 </div>
 
-</div><br>
+</td><br>
 
 
 
 <!--   -----------第三行 ----------------------  -->
 
-<div>
+<td>
 
 <div style="text-align: center; float: left; position:relative; margin:4% 0 0 10%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
@@ -69,9 +69,7 @@ toc: true
 <br>文天<br>
 </div>
 
-
-
-</div>
+</td>
 
 <!-- <div style="text-align: center;">
 
