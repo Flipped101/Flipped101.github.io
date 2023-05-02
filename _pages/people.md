@@ -32,7 +32,7 @@ toc: true
 <tr>
 
 <div style="text-align: center; float: left;  margin:4% 0 0 10%;">
-<img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
+<img align="" width="165px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
 <br>饶书航
 </div>
 
