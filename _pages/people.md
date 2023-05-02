@@ -66,7 +66,7 @@ toc: true
 
 </div>
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
 
 <div style="text-align: center; float: left; position:relative; margin:3% 0 0 12%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/Sulei.jpg" alt="...">
@@ -83,7 +83,7 @@ toc: true
 <br>陈飞扬
 </div>
 
-</div>
+</div> -->
 
 
 </div>
