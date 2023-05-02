@@ -7,9 +7,8 @@ toc: true
 ---
 
 <!--   -----------第一行 ----------------------  -->
-<tr>
 
-<td>
+<div style="text-align: center;">
 
 <div style="text-align: center; float: left; position:relative; margin:3% 0 0 13%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
@@ -21,16 +20,16 @@ toc: true
 <br>雷小榆<br>
 </div>
 
-<div style="text-align: center; float: right; position:relative; margin:3% 5% 0 0;">
+<div style="text-align: center; float: right; position:relative; margin:3% 0 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/高志成.jpg" alt="...">
 <br>高志成<br>
 </div>
 
-</td><br>
+</div>
 
 <!--   -----------第二行 ----------------------  -->
 
-<td>
+<div style="text-align: center;">
 
 <div style="text-align: center; float: left; position:relative; margin:3% 0 0 13%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
@@ -42,18 +41,18 @@ toc: true
 <br>乐恒韬<br>
 </div>
 
-<div style="text-align: center; float: right; position:relative; margin:3% 5% 0 0;">
+<div style="text-align: center; float: right; position:relative; margin:3% 0 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
 <br>陈碧宇<br>
 </div>
 
-</td><br>
+</div>
 
 
 
 <!--   -----------第三行 ----------------------  -->
 
-<td>
+<div style="text-align: center;">
 
 <div style="text-align: center; float: left; position:relative; margin:3% 0 0 13%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
@@ -65,12 +64,12 @@ toc: true
 <br>文天<br>
 </div>
 
-<div style="text-align: center; float: right; position:relative; margin:3% 0 0 5%;">
+<div style="text-align: center; float: right; position:relative; margin:3% 0 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
 <br>MOHAMED <br>IBRAHIM AHMED
 </div>
 
-</td><br>
+</div>
 
 <!-- <div style="text-align: center;">
 
@@ -90,5 +89,3 @@ toc: true
 </div>
 
 </div> -->
-
-</tr>
