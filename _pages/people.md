@@ -21,7 +21,7 @@ toc: true
 <br>雷小榆
 </div>
 
-<div style="text-align: center; float: right; position:relative; margin:3% 0 0 12%;">
+<div style="text-align: center; float: right; position:relative; margin:3% 0 0 15%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/高志成.jpg" alt="...">
 <br>高志成
 </div>
@@ -42,7 +42,7 @@ toc: true
 <br>乐恒韬
 </div>
 
-<div style="text-align: center; float: right; position:relative; margin:3% 0 0 12%;">
+<div style="text-align: center; float: right; position:relative; margin:3% 0 0 15%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
 <br>陈碧宇
 </div>
@@ -65,7 +65,7 @@ toc: true
 <br>文天
 </div>
 
-<div style="text-align: center; float: right; position:relative; margin:3% 0 0 12%;">
+<div style="text-align: center; float: right; position:relative; margin:3% 0 0 15%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
 <br>MOHAMED <br>IBRAHIM AHMED
 </div>
