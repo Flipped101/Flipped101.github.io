@@ -15,7 +15,7 @@ toc: true
 <br>熊家豪（已毕业）
 </div>
 
-<div style="text-align: center; float: right; position:relative; margin:4% 0 0 13%;">
+<div style="text-align: center; float: right; position:relative; margin:4% 0 0 5%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
 <br>雷小榆
 </div>
@@ -36,7 +36,7 @@ toc: true
 <br>饶书航
 </div>
 
-<div style="text-align: center; float: right; position:relative; margin:4% 0 0 13%;">
+<div style="text-align: center; float: right; position:relative; margin:4% 0 0 5%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/乐恒韬.png" alt="...">
 <br>乐恒韬
 </div>
@@ -59,7 +59,7 @@ toc: true
 <br>吴松林
 </div>
 
-<div style="text-align: center; float: right; position:relative; margin:4%  0 0 13%;">
+<div style="text-align: center; float: right; position:relative; margin:4% 0 0 5%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
 <br>MOHAMED
 </div>
