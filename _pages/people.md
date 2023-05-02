@@ -58,12 +58,12 @@ toc: true
 <br>吴松林
 </div>
 
-<div style="text-align: center; float: left;  margin:4% 0 0 15%;">
+<div style="text-align: center; float: left;  margin:4% 0 0 16%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
 <br>MOHAMED
 </div>
 
-<div style="text-align: center; float: right;  margin:4% 0 0 15%;">
+<div style="text-align: center; float: right;  margin:4% 8% 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/文天.jpg" alt="...">
 <br>文天
 </div>
