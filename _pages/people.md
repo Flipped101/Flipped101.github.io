@@ -15,7 +15,7 @@ toc: true
 <br>熊家豪（已毕业）
 </div>
 
-<div style="text-align: center; float: right;  margin:4% 20% 0 0;">
+<div style="text-align: center; float: right;  margin:4% 0 0 20%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
 <br>雷小榆
 </div>
