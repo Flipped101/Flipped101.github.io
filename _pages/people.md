@@ -8,24 +8,24 @@ toc: true
 
 <div style="text-align: center;">
 
-<ul>
+<tr>
 
-<li style="text-align: center; ">
+<td style="text-align: center; ">
 <img align="" width="95%" style="border-radius: 5% 5% 5% 5%" src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
 <br>熊家豪（已毕业）
-</li>
+</td>
 
-<li style="text-align: center; ">
+<td style="text-align: center; ">
 <img align="" width="95%" style="border-radius: 5% 5% 5% 5%" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
 <br>雷小榆
-</li>
+</td>
 
-<li style="text-align: center; ">
+<td style="text-align: center; ">
 <img align="" width="95%" style="border-radius: 5% 5% 5% 5%" src="{{ site.url }}/images/people/高志成.jpg" alt="...">
 <br>高志成
-</li>
+</td>
 
-</ul>
+</tr>
 <!-- <div style="text-align: left;">
 
 </div>
