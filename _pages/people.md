@@ -15,17 +15,17 @@ toc: true
 <br>熊家豪（已毕业）
 </div>
 
-<div style="text-align: center; float: left;  margin:4% 0 0 20%;">
+<div style="text-align: center; float: left;  margin:4% 0 0 16%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
 <br>雷小榆
 </div>
 
-<div style="text-align: center; float: right;  margin:4% 0 0 20%;">
+<div style="text-align: center; float: right;  margin:4% 8% 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/高志成.jpg" alt="...">
 <br>高志成
 </div>
 
-</tr><br>
+</tr><br><br>
 
 <!--   -----------第二行 ----------------------  -->
 
@@ -36,40 +36,39 @@ toc: true
 <br>饶书航
 </div>
 
-<div style="text-align: center; float: left;  margin:4% 0 0 20%;">
+<div style="text-align: center; float: left;  margin:4% 0 0 16%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/乐恒韬.png" alt="...">
 <br>乐恒韬
 </div>
 
-<div style="text-align: center; float: right;  margin:4% 0 0 20%;">
+<div style="text-align: center; float: right;  margin:4% 8% 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
 <br>陈碧宇
 </div>
 
-</tr><br>
+</tr><br><br>
 
 
 
 <!--   -----------第三行 ----------------------  -->
 
 <tr>
-
 <div style="text-align: center; float: left;  margin:4% 0 0 10%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
 <br>吴松林
 </div>
 
-<div style="text-align: center; float: left;  margin:4% 0 0 20%;">
+<div style="text-align: center; float: left;  margin:4% 0 0 15%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
 <br>MOHAMED
 </div>
 
-<div style="text-align: center; float: right;  margin:4% 0 0 20%;">
+<div style="text-align: center; float: right;  margin:4% 0 0 15%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/文天.jpg" alt="...">
 <br>文天
 </div>
 
-</tr>
+</tr><br><br>
 
 
 <!-- <div style="text-align: center;">
