@@ -5,9 +5,8 @@ permalink: /people/
 author_profile: true
 toc: true
 ---
-<div style="text-align: center;">
 
-
+<!--   -----------第一行 ----------------------  -->
 
 <div style="text-align: center;">
 
@@ -28,6 +27,8 @@ toc: true
 
 </div>
 
+<!--   -----------第二行 ----------------------  -->
+
 <div style="text-align: center;">
 
 <div style="text-align: center; float: left; position:relative; margin:3% 0 0 12%;">
@@ -46,6 +47,8 @@ toc: true
 </div>
 
 </div>
+
+<!--   -----------第三行 ----------------------  -->
 
 <div style="text-align: center;">
 
@@ -85,5 +88,3 @@ toc: true
 
 </div> -->
 
-
-</div>
