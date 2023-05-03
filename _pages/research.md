@@ -48,7 +48,7 @@ toc: true
      <tr>
      <td width = "50">
           <div style="text-align: center;">
-               <img align="" width="40%" style="" src="{{ site.url }}/images/research/研究进展2.jpg" alt="...">
+               <img align="" width="100%" style="" src="{{ site.url }}/images/research/研究进展2.jpg" alt="...">
           </div>
      </td>
      <td width = "50">
@@ -68,7 +68,7 @@ toc: true
      <tr>
           <td width="25%">
           <div style="text-align: center;">
-               <img align="" width="40%" style="" src="{{ site.url }}/images/research/研究进展3.png" alt="...">
+               <img align="" width="100%" style="" src="{{ site.url }}/images/research/研究进展3.png" alt="...">
           </div>
           </td>
           <td width="38%">
