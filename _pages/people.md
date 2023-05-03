@@ -13,11 +13,18 @@ toc: true
 <div style="text-align: center; float: left;  margin:0 0 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
 <br>熊家豪（已毕业）
-</div>
-<div style="text-align: left; float: right;  margin:0 0 0 0;">
-dfdfdfdf
-</div>
+</td>
 
+
+<td>
+</div>
+<div style="text-align: left; float: left;  margin:0 0 0 0;">
+邮箱：<br>
+个人主页：<br>
+研究方向：<br>
+爱好：<br>
+座右铭：
+</div>
 
 </td>
 
@@ -26,9 +33,15 @@ dfdfdfdf
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
 <br>雷小榆
 </div>
+</td>
 
-<div style="text-align: left; float: right;  margin:0 0 0 0;">
-dfdfdfdf
+<td>
+<div style="text-align: left; float: left;  margin:0 0 0 0;">
+邮箱：<br>
+个人主页：<br>
+研究方向：<br>
+爱好：<br>
+座右铭：
 </div>
 
 </td>
