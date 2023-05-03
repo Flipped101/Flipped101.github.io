@@ -28,6 +28,26 @@ toc: true
         </td>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/潘嘉宾.jpg" alt="...">
+                <br>潘嘉宾
+            </div>
+        </td>
+        <td width="31%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:16px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
+                    个人主页：
+                    <!-- <a href="https://github.com/leixiaoyuasdl" target="_blank">详情请点击</a><br> -->
+                    研究方向：<br>
+                    兴趣爱好：<br>
+                </p>
+            </div>
+        </td>
+    </tr>
+    <!--   -----------第2行 ----------------------  -->
+    <tr>
+        <td width="17.5%">
+            <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
                 <br>雷小榆
             </div>
@@ -42,9 +62,6 @@ toc: true
                 </p>
             </div>
         </td>
-    </tr>
-    <!--   -----------第2行 ----------------------  -->
-    <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/高志成.jpg" alt="...">
@@ -61,6 +78,9 @@ toc: true
                 </p>
             </div>
         </td>
+    </tr>
+<!--   -----------第3行 ----------------------  -->
+    <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
@@ -77,9 +97,6 @@ toc: true
                 </p>
             </div>
         </td>
-    </tr>
-<!--   -----------第3行 ----------------------  -->
-    <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/乐恒韬.png" alt="...">
@@ -96,6 +113,9 @@ toc: true
                 </p>
             </div>
         </td>
+    </tr>
+    <!--   -----------第4行 ----------------------  -->
+    <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
@@ -112,9 +132,6 @@ toc: true
                 </p>
             </div>
         </td>
-    </tr>
-    <!--   -----------第4行 ----------------------  -->
-    <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
@@ -131,6 +148,9 @@ toc: true
                 </p>
             </div>
         </td>
+    </tr>
+    <!--   -----------第5行 ----------------------  -->
+    <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/文天.jpg" alt="...">
@@ -147,29 +167,10 @@ toc: true
                 </p>
             </div>
         </td>
-    </tr>
-    <!--   -----------第5行 ----------------------  -->
-    <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
                 <br>MOHAMED <br>IBRAHIM AHMED
-            </div>
-        </td>
-        <td width="31%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
-                    个人主页：<br>
-                    研究方向：<br>
-                    兴趣爱好：<br>
-                </p>
-            </div>
-        </td>
-        <td width="17.5%">
-            <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Sulei.jpg" alt="...">
-                <br>Sulei
             </div>
         </td>
         <td width="31%">
@@ -187,6 +188,22 @@ toc: true
     <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Sulei.jpg" alt="...">
+                <br>Sulei
+            </div>
+        </td>
+        <td width="31%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:16px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
+                    个人主页：<br>
+                    研究方向：<br>
+                    兴趣爱好：<br>
+                </p>
+            </div>
+        </td>
+        <td width="17.5%">
+            <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/王法福.png" alt="...">
                 <br>王法福
             </div>
@@ -201,6 +218,9 @@ toc: true
                 </p>
             </div>
         </td>
+    </tr>
+    <!--   -----------第7行 ----------------------  -->
+    <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
@@ -217,5 +237,21 @@ toc: true
                 </p>
             </div>
         </td>
+        <!-- <td width="17.5%">
+            <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/.jpg" alt="...">
+                <br>
+            </div>
+        </td>
+        <td width="31%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:16px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
+                    个人主页：<br>
+                    研究方向：<br>
+                    兴趣爱好：<br>
+                </p>
+            </div>
+        </td> -->
     </tr>
 </table>
