@@ -60,6 +60,7 @@ toc: true
 </div>
 
 ### （3）双臂与遥操作机器人
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;双臂协作机器人主要包括工作台、控制柜、两台六自由度机械臂、双臂支架、两个二指夹爪、头部3D相机、两个手部2D相机、工控机及ROS机器人操作系统等，可以实现抓取、装配等任务。
 <div style="text-align: center;">
 
 <img align="" width="83%" style="" src="{{ site.url }}/images/research/研究进展3.png" alt="...">
