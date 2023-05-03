@@ -9,7 +9,11 @@ redirect_from:
 toc: true
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要从事智能机器人理论、算法与技术的研究，以第一/通讯作者在机器人权威期刊TASE、TIE、TMech、RAL、ICRA等发表论文20余篇，授权发明专利11项。主持国家自科基金、湖北省重点研发专项、中英国际合作与交流基金、湖北省自科基金、国家重点实验室开发基金等项目，作为骨干成员参与国家重点研究计划、湖北省创新群体、英国EPSRC等。入选省经信厅第三批“科技副总”与校“青年骨干人才计划”。兼任湖北省人工智能学会理事、亚太人工智能学会武汉分会理事、国家自科基金函评专家及TRO/TMech/ICRA/IROS等期刊审稿人、机器人顶会ICRA2021分会场主席。荣获湖北省科技进步二等奖、中国自动化学会科技进步一等奖、中国发明创业创新奖二等奖、以及校“优秀青年”、“优秀班主任”、“工会积极分子”等荣誉。指导研究生获优秀毕业生和优秀毕业论文，及本科生参加各类比赛获国家级、省级奖项30余项。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要从事智能机器人理论、算法与技术的研究，以第一/通讯作者在机器人权威期刊TASE、TIE、TMech、RAL、ICRA等发表论文20余篇，授权发明专利11项。主持国家自科基金、湖北省重点研发专项、中英国际合作与交流基金、湖北省自科基金、国家重点实验室开发基金等项目，作为骨干成员参与国家重点研究计划、湖北省创新群体、英国EPSRC等。入选省经信厅第三批“科技副总”与校“青年骨干人才计划”。兼任湖北省人工智能学会理事、亚太人工智能学会武汉分会理事、国家自科基金函评专家及TRO/TMech/ICRA/IROS等期刊审稿人、机器人顶会ICRA2021分会场主席。荣获湖北省科技进步二等奖、中国自动化学会科技进步一等奖、中国发明创业创新奖二等奖、以及校“优秀青年”、“优秀班主任”、“工会积极分子”等荣誉。指导研究生获优秀毕业生和优秀毕业论文，及本科生参加各类比赛获国家级、省级奖项30余项。<br>
+所在团队：先进制造与智能机器人研究实验室 [https://amir.wit.edu.cn/index.jsp](https://amir.wit.edu.cn/index.jsp) <br>
+联系地址：武汉工程大学机电工程学院，制造智能化中心203室<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+湖北省武汉市东湖新技术开发区光谷一路206号（430205）
 <!-- 副教授，武汉工程大学  <br>
 机电工程学院，智能制造中心203室 <br>
 邮箱: hustfzt@gmail.com <br>
@@ -22,6 +26,16 @@ toc: true
 （1）机器人制造、机器人超声诊疗<br>
 （2）多模态感知与学习、技能学习<br>
 （3）李群李代数、微分流形
+
+## 主要合作单位
+伦敦国王学院 Centre for Robotics Research (CORE)  [https://www.kcl.ac.uk/research/core](https://www.kcl.ac.uk/research/core) <br>
+华中科技大学 智能制造装备与技术全国重点实验室（DMET） [http://dmet.hust.edu.cn/index.htm](http://dmet.hust.edu.cn/index.htm) <br>
+南方科技大学机器人研究院（SUS SIR） [https://www.sustech.edu.cn/zh/faculties/daijiansheng.html](https://www.sustech.edu.cn/zh/faculties/daijiansheng.html) <br>
+武汉科技大学 机器人与智能系统研究院 [https://www.wust.edu.cn/jqr/](https://www.wust.edu.cn/jqr/) <br>
+武汉大学 先进机器人与智能控制实验室 [http://aric.whu.edu.cn/](http://aric.whu.edu.cn/) <br>
+武汉工程大学 智能机器人湖北省重点实验室 [https://robot.wit.edu.cn/](https://robot.wit.edu.cn/) <br>
+武汉库柏特科技有限公司 [https://www.cobotsys.com/](https://www.cobotsys.com/) <br>
+遨博（北京）智能科技股份有限公司 [https://www.aubo-robotics.cn/](https://www.aubo-robotics.cn/) <br>
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机器人在制造和医疗领域的理论和应用，包括机器人运动学/动力学，机器人-机器人/人协作及多模态感知等，寻找先进算法与最终质量之间的内在联系，使机器人系统得到高效、精确控制，并实现机器人高灵活性。 -->
 
