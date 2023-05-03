@@ -17,8 +17,9 @@ toc: true
         </td>
         <td width="25%">
             <div style="text-align: left; margin:0 0 0 8%;">
-                <p style = "line-height:1.5; font-size:10">
-                    &nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
+                <p style = "line-height:2; font-size:16px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    邮箱：<br>
                     个人主页：<br>
                     研究方向：<br>
                     爱好：<br>
@@ -33,7 +34,8 @@ toc: true
         </td>
         <td width="25%">
             <div style="text-align: left; margin:0 0 0 8%;">
-                <p style = "line-height:1.5; font-size:10">
+                <p style = "line-height:2; font-size:16px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     邮箱：1945367227@qq.com<br>
                     个人主页：<a href="https://github.com/leixiaoyuasdl" target="_blank">详情请点击</a><br>
                     研究方向：机器人视觉伺服<br>
