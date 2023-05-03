@@ -24,14 +24,14 @@ toc: true
                <img align="" width="100%" style="" src="{{ site.url }}/images/research/研究进展1.png" alt="...">
           </div>
           </td>
-          <td width="38%" style="border:0;">
+          <td width="37.5%" style="border:0;">
           <div style="text-align: center;">
                <video controls width="100%">
                     <source src="{{ site.url }}/images/research/研究进展1.mp4" type="video/MP4">
                </video>
           </div>
           </td>
-          <td width="38%" style="border:0;">
+          <td width="37.5%" style="border:0;">
           <div style="text-align: center;">
                <video controls width="100%">
                     <source src="{{ site.url }}/images/research/研究进展2.mp4" type="video/MP4">
@@ -71,14 +71,14 @@ toc: true
                <img align="" width="100%" style="" src="{{ site.url }}/images/research/研究进展3.png" alt="...">
           </div>
           </td>
-          <td width="38%" style="border:0;">
+          <td width="37.5%" style="border:0;">
           <div style="text-align: center;">
                <video controls width="100%">
                     <source src="{{ site.url }}/images/research/研究进展4.mp4" type="video/MP4">
                </video>
           </div>
           </td>
-          <td width="38%" style="border:0;">
+          <td width="37.5%" style="border:0;">
           <div style="text-align: center;">
                <video controls width="100%">
                     <source src="{{ site.url }}/images/research/研究进展5.mp4" type="video/MP4">
