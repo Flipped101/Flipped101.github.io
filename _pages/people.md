@@ -31,10 +31,12 @@ toc: true
         </td>
         <td width="25%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                邮箱：1945367227@qq.com<br>
-                个人主页：<a href="https://github.com/leixiaoyuasdl" target="_blank">https://github.com/leixiaoyuasdl</a><br>
-                研究方向：机器人视觉伺服<br>
-                爱好：兵兵球<br>
+                <p font-size="10px">
+                    邮箱：1945367227@qq.com<br>
+                    个人主页：<a href="https://github.com/leixiaoyuasdl" target="_blank">https://github.com/leixiaoyuasdl</a><br>
+                    研究方向：机器人视觉伺服<br>
+                    爱好：兵兵球<br>
+                </p>
             </div>
         </td>
     </tr>
