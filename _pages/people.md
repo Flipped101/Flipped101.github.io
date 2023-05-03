@@ -28,8 +28,8 @@ toc: true
         </td>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/潘嘉宾.jpg" alt="...">
-                <br>潘嘉宾
+                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/潘嘉宾（已毕业）.jpg" alt="...">
+                <br>潘嘉宾（已毕业）
             </div>
         </td>
         <td width="31%">
