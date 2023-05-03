@@ -36,6 +36,7 @@ toc: true
                <video controls width="50%">
                     <source src="{{ site.url }}/images/research/研究进展2.mp4" type="video/MP4">
                </video>
+          </div>
           </td>
      </tr>
 </table>
