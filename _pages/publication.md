@@ -8,7 +8,7 @@ toc: true
 
 
 ## 1.论文
-（详见：[这里](https://scholar.google.com/citations?hl=zh-CN&user=rdyz9EMAAAAJ&view_op=list_works&sortby=pubdate)）
+（详情请见：[这里](https://scholar.google.com/citations?hl=zh-CN&user=rdyz9EMAAAAJ&view_op=list_works&sortby=pubdate)）
 
 ### 2022
 [1]	E Spyrakos-Papastavridis; Z Fu; J S Dai; Power-Shaping Model-Based Control With Feedback Deactivation for Flexible-Joint Robot Interaction, IEEE Robotics and Automation Letters, 2022, 7(2): 4566-4573.<br>
