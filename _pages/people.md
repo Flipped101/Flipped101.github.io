@@ -10,13 +10,13 @@ toc: true
 <table>
 <!--   -----------第1行 ----------------------  -->
     <tr>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
                 <br>熊家豪（已毕业）
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
@@ -26,13 +26,13 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
                 <br>雷小榆
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：1945367227@qq.com<br>
@@ -45,13 +45,13 @@ toc: true
     </tr>
     <!--   -----------第2行 ----------------------  -->
     <tr>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/高志成.jpg" alt="...">
                 <br>高志成
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：529813537@qq.com<br>
@@ -61,13 +61,13 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
                 <br>饶书航
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：myLucky1998@163.com<br>
@@ -80,13 +80,13 @@ toc: true
     </tr>
 <!--   -----------第3行 ----------------------  -->
     <tr>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/乐恒韬.png" alt="...">
                 <br>乐恒韬
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010012@stu.wit.edu.cn<br>
@@ -96,13 +96,13 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
                 <br>陈碧宇
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010041@stu.wit.edu.cn<br>
@@ -115,13 +115,13 @@ toc: true
     </tr>
     <!--   -----------第4行 ----------------------  -->
     <tr>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
                 <br>吴松林
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：824342197@qq.com<br>
@@ -131,13 +131,13 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/文天.jpg" alt="...">
                 <br>文天
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：1489959038@qq.com<br>
@@ -150,13 +150,13 @@ toc: true
     </tr>
     <!--   -----------第5行 ----------------------  -->
     <tr>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
                 <br>MOHAMED <br>IBRAHIM AHMED
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
@@ -166,13 +166,13 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Sulei.jpg" alt="...">
                 <br>Sulei
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
@@ -185,13 +185,13 @@ toc: true
     </tr>
     <!--   -----------第6行 ----------------------  -->
     <tr>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/王法福.png" alt="...">
                 <br>王法福
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：2946294893@qq.com<br>
@@ -201,13 +201,13 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17%">
+        <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
                 <br>陈飞扬
             </div>
         </td>
-        <td width="32%">
+        <td width="30%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：chenfeiyoo@163.com<br>
