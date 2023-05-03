@@ -8,6 +8,37 @@ toc_max_header: 1
 ---
 
 
+## Invited talks
+
+2022【讲科学直播】，《李群李代数在机器人运动学-动力学的建模与应用》<br>
+2020中国机器人行业年会，《智能机器人操作系统及生态落地应用》<br>
+2018中瑞人工智能数据大会，《机器人柔性制造：数据与算法》
+
+## Session Chair
+IEEE International Conference on Robotics and Automation (ICRA2021)<br>
+International Conference on Intelligent Autonomous Systems (ICoIAS2021)
+
+## Reviewer
+IEEE Transactions on Robotics<br>
+IEEE/ASME Transactions on Mechatronics<br>
+Mechanism and Machine Theory <br>
+IEEE Robotics and Automation Letters<br>
+Robotics and Autonomous Systems
+
+## Measurement
+Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science<br>
+Frontiers in Robotics and AI<br>
+MDPI Journal (Applied Sciences、Machines、Sensors)
+
+## International Journal of Advanced Robotic Systems
+IEEE International Conference on Robotics and Automation (ICRA)
+IEEE International Conference on Intelligent Robots and Systems (IROS)
+IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
+Ubiquitous Robots (UR)
+International Conference on Intelligent Autonomous Systems (ICoIAS)
+
+## 《装备制造技术》青年编委
+
 <!-- 
 # Program Chair
 * ``ViTac 2021: Trends and Challenges in Visuo-Tactile Perception'' Workshop in ICRA 2021. Co-orgnisers: Prof. Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Prof. Wenzhen Yuan (Carnegie Mellon University); Prof. Kaspar Althoefer (Queen Mary University of London); Prof. Gordon Cheng (Technische Universität München).
