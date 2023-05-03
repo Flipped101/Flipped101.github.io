@@ -29,7 +29,7 @@ toc: true
 </div>
 ## 3.《机器人操作系统》
 
-24学时，24学时，机器人工程专业与留学生<br>
+24学时，机器人工程专业与留学生<br>
 详情请见：（[这里](https://www.guyuehome.com/)）
 
 <div style="text-align: center;">
