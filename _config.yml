@@ -88,9 +88,9 @@ author:
   location         : "中国，武汉"
   employer         : "武汉工程大学"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.uk/citations?user=ArnkrbwAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=rdyz9EMAAAAJ&hl=zh-CN"
   email            : hustfzt@gmail.com
-  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zhongtao-Fu"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,14 +104,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shan-luo-44b20059"
+  linkedin         : "https://www.linkedin.com/in/zhongtao-fu-9a108977/"
   orcid            : "https://orcid.org/0000-0003-4760-0372"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mountluoupc"
+  #twitter          : "mountluoupc"
   vine             :
   weibo            :
   xing             :
