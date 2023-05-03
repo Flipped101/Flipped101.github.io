@@ -10,19 +10,14 @@ toc_max_header: 1
 
 Invited talks<br>
 
-<br>
 2022【讲科学直播】，《李群李代数在机器人运动学-动力学的建模与应用》<br>
 2020中国机器人行业年会，《智能机器人操作系统及生态落地应用》<br>
 2018中瑞人工智能数据大会，《机器人柔性制造：数据与算法》<br>
 
-
-<br>
 Session Chair<br>
 IEEE International Conference on Robotics and Automation (ICRA2021)<br>
 International Conference on Intelligent Autonomous Systems (ICoIAS2021)<br>
 
-
-<br>
 Reviewer<br>
 IEEE Transactions on Robotics<br>
 IEEE/ASME Transactions on Mechatronics<br>
@@ -34,8 +29,6 @@ Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mecha
 Frontiers in Robotics and AI<br>
 MDPI Journal (Applied Sciences、Machines、Sensors)<br>
 
-
-<br>
 International Journal of Advanced Robotic Systems<br>
 IEEE International Conference on Robotics and Automation (ICRA)<br>
 IEEE International Conference on Intelligent Robots and Systems (IROS)<br>
@@ -43,7 +36,6 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)<br
 Ubiquitous Robots (UR)<br>
 International Conference on Intelligent Autonomous Systems (ICoIAS)<br>
 
-<br>
 《装备制造技术》青年编委<br>
 
 <!-- 
