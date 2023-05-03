@@ -9,34 +9,34 @@ toc: true
 <!--   -----------第一行 ----------------------  -->
 <table>
     <tr>
-        <td width="20%">
+        <td width="19%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
                 <br>熊家豪（已毕业）
             </div>
         </td>
         <td width="25%">
-            <div style="text-align: left; margin:0 0 5% ;">
+            <div style="text-align: left; margin:0 0 8% ;">
                 邮箱：<br>
                 个人主页：<br>
                 研究方向：<br>
                 爱好：<br>
             </div>
         </td>
-        <td width="20%">
+        <td width="19%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
                 <br>雷小榆
             </div>
         </td>
         <td width="25%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p font-size="10px">
+            <div style="text-align: left; margin:0 0 0 8%;">
+                <font size="10">
                     邮箱：1945367227@qq.com<br>
-                    个人主页：<a href="https://github.com/leixiaoyuasdl" target="_blank">https://github.com/leixiaoyuasdl</a><br>
+                    个人主页：<a href="https://github.com/leixiaoyuasdl" target="_blank">详情请点击</a><br>
                     研究方向：机器人视觉伺服<br>
                     爱好：兵兵球<br>
-                </p>
+                </font>
             </div>
         </td>
     </tr>
