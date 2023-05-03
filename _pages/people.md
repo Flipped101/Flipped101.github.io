@@ -7,29 +7,45 @@ toc: true
 ---
 
 <!--   -----------第一行 ----------------------  -->
-
+<table>
 <tr>
-
-<div style="text-align: center; float: left;  margin:4% 0 0 10%;">
+<td>
+<div style="text-align: center; float: left;  margin:0 0 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
 <br>熊家豪（已毕业）
 </div>
+<div style="text-align: left; float: right;  margin:0 0 0 0;">
+dfdfdfdf
+</div>
 
-<div style="text-align: center; float: left;  margin:4% 0 0 16%;">
+
+</td>
+
+<td>
+<div style="text-align: center; float: left;  margin:0 0 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
 <br>雷小榆
 </div>
 
-<div style="text-align: center; float: right;  margin:4% 8% 0 0;">
-<img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/高志成.jpg" alt="...">
-<br>高志成
+<div style="text-align: left; float: right;  margin:0 0 0 0;">
+dfdfdfdf
 </div>
 
-</tr><br><br>
+</td>
+<!-- <div style="text-align: center; float: right;  margin:4% 8% 0 0;">
+<img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/高志成.jpg" alt="...">
+<br>高志成
+</div> -->
+
+</tr>
+</table>
+
+<br><br>
+
 
 <!--   -----------第二行 ----------------------  -->
 
-<tr>
+<!-- <tr>
 
 <div style="text-align: center; float: left;  margin:4% 0 0 10%;">
 <img align="" width="165px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
@@ -46,13 +62,12 @@ toc: true
 <br>陈碧宇
 </div>
 
-</tr><br><br>
+</tr><br><br> -->
 
-<tr> </tr>
 
 <!--   -----------第三行 ----------------------  -->
 
-<tr>
+<!-- <tr>
 <div style="text-align: center; float: left;  margin:4% 16% 0 10%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
 <br>吴松林<br>
@@ -68,25 +83,25 @@ toc: true
 <br>MOHAMED <br>IBRAHIM AHMED
 </div>
 
-</tr><br><br>
+</tr><br><br> -->
 
 <!--   -----------第四行 ----------------------  -->
 
-<tr>
+<!-- <tr> -->
 
 <!-- <div style="text-align: center; float: left;  margin:4% 16% 0 10%;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/Sulei.jpg" alt="...">
 <br>Sulei
 </div> -->
-
+<!-- 
 <div style="text-align: center; float: left;  margin:4% 0 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/王法福.png" alt="...">
 <br>王法福
 </div>
 
-<!-- <div style="text-align: center; float: right;  margin:4% 8% 0 0;">
+<div style="text-align: center; float: right;  margin:4% 8% 0 0;">
 <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
 <br>陈飞扬
-</div> -->
+</div>
 
-</tr>
+</tr> -->
