@@ -70,14 +70,14 @@ toc: true
 
 ### （4）移动检测机器人
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由MK ROBOT-01室外智能移动平台、AUBO I7协作机械臂、机械臂升降装置、热成像光双谱云台、高性能工作站、ROS操控软件等组成，智能移动复合机器人搭载有ROS操控软件的高性能移动工作站，通过激光雷达、IMU、RTK等传感器实现机器人的定位导航、自主避障、自主路径规划、远程控制以及不同高度范围内的检测等功能。
-<div style="text-align: center;">
+<tr>
+     <td>
+          <img align="" width="40%" style="" src="{{ site.url }}/images/research/研究进展4.png" alt="...">
+     </td>
+     <td>
+          <video controls width="40%">
+               <source src="{{ site.url }}/images/research/研究进展6.mp4" type="video/MP4">
+          </video>
+     </td>
 
-<img align="" width="40%" style="" src="{{ site.url }}/images/research/研究进展4.png" alt="...">
-<br>
-<br>
-<video controls width="40%">
-     <source src="{{ site.url }}/images/research/研究进展6.mp4" type="video/MP4">
-</video>
-<br>
-
-</div>
+</tr>
