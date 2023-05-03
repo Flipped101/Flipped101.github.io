@@ -15,8 +15,8 @@ toc: true
                 <br>熊家豪（已毕业）
             </div>
         </td>
-        <td width="30%">
-            <div style="text-align: left; margin:0 0 0 0;">
+        <td width="25%">
+            <div style="text-align: left; margin:0 0 5% ;">
                 邮箱：<br>
                 个人主页：<br>
                 研究方向：<br>
@@ -29,10 +29,10 @@ toc: true
                 <br>雷小榆
             </div>
         </td>
-        <td width="30%">
-            <div style="text-align: left; margin:0 0 0 0;">
+        <td width="25%">
+            <div style="text-align: left; margin:0 0 0 5%;">
                 邮箱：1945367227@qq.com<br>
-                个人主页：[https://github.com/leixiaoyuasdl](https://github.com/leixiaoyuasdl)<br>
+                个人主页：<a href="https://github.com/leixiaoyuasdl" target="_blank">https://github.com/leixiaoyuasdl</a><br>
                 研究方向：机器人视觉伺服<br>
                 爱好：兵兵球<br>
             </div>
