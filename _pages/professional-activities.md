@@ -6,9 +6,9 @@ author_profile: true
 toc: true
 toc_max_header: 1
 ---
-{% include toc h_min = 1%}
 
 
+<!-- 
 # Program Chair
 * ``ViTac 2021: Trends and Challenges in Visuo-Tactile Perception'' Workshop in ICRA 2021. Co-orgnisers: Prof. Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Prof. Wenzhen Yuan (Carnegie Mellon University); Prof. Kaspar Althoefer (Queen Mary University of London); Prof. Gordon Cheng (Technische Universität München).
 * ``ViTac 2020: Closing the Perception-Action Loop with Vision and Tactile Sensing'' Workshop in ICRA 2020. Co-orgnisers: Prof. Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Prof. Wenzhen Yuan (Carnegie Mellon University); Prof. Gordon Cheng (Technische Universität München).
@@ -73,4 +73,4 @@ toc_max_header: 1
 * Conference on Computer Vision and Pattern Recognition (CVPR)
 * International Conference on Computer Vision (ICCV)
 * Robotics: Science and Systems (RSS)
-* Conference on Robot Learning (CoRL)
+* Conference on Robot Learning (CoRL) -->
