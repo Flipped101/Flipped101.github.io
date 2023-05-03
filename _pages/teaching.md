@@ -6,7 +6,6 @@ author_profile: true
 toc: true
 ---
 
- {% include toc %}
 
 ## 1.《工业机器人技术及应用》
 

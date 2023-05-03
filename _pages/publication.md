@@ -6,7 +6,6 @@ author_profile: true
 toc: true
 ---
 
-{% include toc %}
 
 ## 1.论文
 （详见：[https://scholar.google.com/citations?hl=zh-CN&user=rdyz9EMAAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=zh-CN&user=rdyz9EMAAAAJ&view_op=list_works&sortby=pubdate)）
