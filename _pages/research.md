@@ -21,7 +21,7 @@ toc: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;智能机器人在制造和医疗领域的理论、算法和应用，包括机器人运动学/动力学，机器人-机器人/人协作及多模态感知等，寻找先进算法与最终质量之间的内在联系，使机器人系统得到高效、精确控制，并实现机器人高灵活性。
 <div style="text-align: center;">
-<img align="" width="83%" style="" src="{{ site.url }}/images/research/研究方向01.png" alt="...">
+<img align="" width="75%" style="" src="{{ site.url }}/images/research/研究方向01.png" alt="...">
 </div>
 
 ## 主要研究进展如下:
