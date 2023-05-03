@@ -19,16 +19,16 @@ toc: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;提出了基于NC代码的机器人铣削控制指令的转换方法，并开发了机器人铣削加工仿真软件RobMach。该方法包括NC代码中数据的分析与提取，刀位点到机器人基坐标系的位姿转换和铣刀位姿的转换的三个过程。在此基础上，通过解析G-Code和机器人控制命令及其转换机制，开发了机器人铣削加工软件RobMach，首先需要将加工零件导入UG，利用UG的CAM模块得到刀位文件（G代码）。RobMach则将刀位文件转换成RAPID指令文件（.mod文件），软件可以根据转换的指令仿真出机器人的完整动作，并将指令直接传输给机器人，实现机器人的离线编程功能。本软件主要由输入输出区、代码转换可视区、仿真运动可视区、铣削轨迹生成区、仿真执行控制区构成。其功能主要是将导入的G Code转换为机器人的RAPID指令（.mod文件），并进行仿真验证。
 <table border="0">
      <tr>
-          <td width="28%">
+          <td width="28%" style="text-align: center;">
                <img align="" width="60%" style="" src="{{ site.url }}/images/research/研究进展1.png" alt="...">
           </td>
           <td width="36%">
-               <video controls width="40%">
+               <video controls width="40%" style="text-align: center;">
                     <source src="{{ site.url }}/images/research/研究进展1.mp4" type="video/MP4">
                </video>
           </td>
           <td width="36%">
-               <video controls width="40%">
+               <video controls width="40%" style="text-align: center;">
                     <source src="{{ site.url }}/images/research/研究进展2.mp4" type="video/MP4">
                </video>
           </td>
@@ -69,13 +69,15 @@ toc: true
 
 ### （4）移动检测机器人
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由MK ROBOT-01室外智能移动平台、AUBO I7协作机械臂、机械臂升降装置、热成像光双谱云台、高性能工作站、ROS操控软件等组成，智能移动复合机器人搭载有ROS操控软件的高性能移动工作站，通过激光雷达、IMU、RTK等传感器实现机器人的定位导航、自主避障、自主路径规划、远程控制以及不同高度范围内的检测等功能。
-<tr>
-     <td>
-          <img align="" width="40%" style="" src="{{ site.url }}/images/research/研究进展4.png" alt="...">
-     </td>
-     <td>
-          <video controls width="40%">
-               <source src="{{ site.url }}/images/research/研究进展6.mp4" type="video/MP4">
-          </video>
-     </td>
-</tr>
+<table>
+     <tr>
+          <td style="text-align: center;">
+               <img align="" width="40%" style="" src="{{ site.url }}/images/research/研究进展4.png" alt="...">
+          </td>
+          <td style="text-align: center;">
+               <video controls width="40%">
+                    <source src="{{ site.url }}/images/research/研究进展6.mp4" type="video/MP4">
+               </video>
+          </td>
+     </tr>
+</table>
