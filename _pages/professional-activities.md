@@ -8,17 +8,17 @@ toc_max_header: 1
 ---
 
 
-Invited talks<br>
+## Invited talks
 
 2022【讲科学直播】，《李群李代数在机器人运动学-动力学的建模与应用》<br>
 2020中国机器人行业年会，《智能机器人操作系统及生态落地应用》<br>
 2018中瑞人工智能数据大会，《机器人柔性制造：数据与算法》<br>
 
-Session Chair<br>
+## Session Chair
 IEEE International Conference on Robotics and Automation (ICRA2021)<br>
 International Conference on Intelligent Autonomous Systems (ICoIAS2021)<br>
 
-Reviewer<br>
+## Reviewer
 IEEE Transactions on Robotics<br>
 IEEE/ASME Transactions on Mechatronics<br>
 Mechanism and Machine Theory <br>
