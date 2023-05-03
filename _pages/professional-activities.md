@@ -8,36 +8,36 @@ toc_max_header: 1
 ---
 
 
-## Invited talks
+Invited talks<br>
 
 2022【讲科学直播】，《李群李代数在机器人运动学-动力学的建模与应用》<br>
 2020中国机器人行业年会，《智能机器人操作系统及生态落地应用》<br>
-2018中瑞人工智能数据大会，《机器人柔性制造：数据与算法》
+2018中瑞人工智能数据大会，《机器人柔性制造：数据与算法》<br>
 
-## Session Chair
+Session Chair<br>
 IEEE International Conference on Robotics and Automation (ICRA2021)<br>
-International Conference on Intelligent Autonomous Systems (ICoIAS2021)
+International Conference on Intelligent Autonomous Systems (ICoIAS2021)<br>
 
-## Reviewer
+Reviewer<br>
 IEEE Transactions on Robotics<br>
 IEEE/ASME Transactions on Mechatronics<br>
 Mechanism and Machine Theory <br>
 IEEE Robotics and Automation Letters<br>
-Robotics and Autonomous Systems
+Robotics and Autonomous Systems<br>
 
-## Measurement
+Measurement<br>
 Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science<br>
 Frontiers in Robotics and AI<br>
-MDPI Journal (Applied Sciences、Machines、Sensors)
+MDPI Journal (Applied Sciences、Machines、Sensors)<br>
 
-## International Journal of Advanced Robotic Systems
-IEEE International Conference on Robotics and Automation (ICRA)
-IEEE International Conference on Intelligent Robots and Systems (IROS)
-IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
-Ubiquitous Robots (UR)
-International Conference on Intelligent Autonomous Systems (ICoIAS)
+International Journal of Advanced Robotic Systems<br>
+IEEE International Conference on Robotics and Automation (ICRA)<br>
+IEEE International Conference on Intelligent Robots and Systems (IROS)<br>
+IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)<br>
+Ubiquitous Robots (UR)<br>
+International Conference on Intelligent Autonomous Systems (ICoIAS)<br>
 
-## 《装备制造技术》青年编委
+《装备制造技术》青年编委<br>
 
 <!-- 
 # Program Chair
