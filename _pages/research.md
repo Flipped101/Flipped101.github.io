@@ -21,14 +21,14 @@ toc: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;智能机器人在制造和医疗领域的理论、算法和应用，包括机器人运动学/动力学，机器人-机器人/人协作及多模态感知等，寻找先进算法与最终质量之间的内在联系，使机器人系统得到高效、精确控制，并实现机器人高灵活性。
 <div style="text-align: center;">
-<img align="" width="75%" style="" src="{{ site.url }}/images/research/研究方向01.png" alt="...">
+<img align="" width="60%" style="" src="{{ site.url }}/images/research/研究方向01.png" alt="...">
 </div>
 
 ## 主要研究进展如下:
 
 ### （1）机器人加工轨迹生成
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;提出了基于NC代码的机器人铣削控制指令的转换方法，并开发了机器人铣削加工仿真软件RobMach。该方法包括NC代码中数据的分析与提取，刀位点到机器人基坐标系的位姿转换和铣刀位姿的转换的三个过程。在此基础上，通过解析G-Code和机器人控制命令及其转换机制，开发了机器人铣削加工软件RobMach，首先需要将加工零件导入UG，利用UG的CAM模块得到刀位文件（G代码）。RobMach则将刀位文件转换成RAPID指令文件（.mod文件），软件可以根据转换的指令仿真出机器人的完整动作，并将指令直接传输给机器人，实现机器人的离线编程功能。本软件主要由输入输出区、代码转换可视区、仿真运动可视区、铣削轨迹生成区、仿真执行控制区构成。其功能主要是将导入的G Code转换为机器人的RAPID指令（.mod文件），并进行仿真验证。
 <div style="text-align: center;">
 <img align="" width="83%" style="" src="{{ site.url }}/images/research/研究进展1.png" alt="...">
 <br>
