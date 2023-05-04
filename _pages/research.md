@@ -38,8 +38,12 @@ toc: true
                </video>
           </div>
           </td>
+          <!-- 引入 jQuery 库 -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript">$(function () { $(document).bind("contextmenu copy selectstart", function () {return false;});});document.onselectstart = new Function("event.returnValue=false;");$(document).bind("contextmenu copy selectstart", function () {return false;});</script>
      </tr>
 </table>
+
 ### （2）软体手设计
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;设计的智能多指软体手IntMSHand，配备了多指手（手）、视-触觉系统（眼、触）等，实现“手眼触”一体化的智能软体手抓取操作。核心技术：1）多个软体手指与反馈调节装置，实现各种不同尺寸与外形物体的自适应抓取；2）3D视觉结合机器学习，实现待抓取物体的识别与位姿估计、以及抓取任务规划；3）基于视-触觉传感器的被抓取物体的力位精准控制。技术优势：对被抓取物体的适用性强，特别针对精密零部件，能够保证抓取的准确性与鲁棒性，可应用到智能制造，食品业、3C行业等领域。
