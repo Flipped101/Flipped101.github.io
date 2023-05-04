@@ -18,8 +18,7 @@ toc: true
 ### 2022
 [1]	E Spyrakos-Papastavridis; Z Fu; J S Dai; Power-Shaping Model-Based Control With Feedback Deactivation for Flexible-Joint Robot Interaction, IEEE Robotics and Automation Letters, 2022, 7(2): 4566-4573.<br>
 [2]	Pan J, Fu Z, Yue H, et al. Toward Simultaneous Coordinate Calibrations of AX= YB Problem by the LMI-SDP Optimization [J]. IEEE Transactions on Automation Science and Engineering, 2022.<br>
-[3]	Spyrakos-Papastavridis E, Fu Z, Dai J S. Power-shaping model-based control with feedback deactivation for flexible-joint robot interaction [J]. IEEE Robotics and Automation Letters, 2022, 7(2): 4566-4573.<br>
-[4]	Pan J, Fu Z, Xiong J, et al. RobMach: G-Code-based off-line programming for robotic machining trajectory generation [J]. The International Journal of Advanced Manufacturing Technology: 1-15.<br>
+[3]	Pan J, Fu Z, Xiong J, et al. RobMach: G-Code-based off-line programming for robotic machining trajectory generation [J]. The International Journal of Advanced Manufacturing Technology: 1-15.<br>
 
 ### 2021
 [1]	Z Fu; J Pan; E Spyrakos-Papastavridis; Y Lin; X Zhou; X Chen; J S Dai; A Lie theory based dynamic parameter identification methodology for serial manipulators, IEEE/ASME Transactions on Mechatronics, 2021, 26(5): 2688-2699.<br>
