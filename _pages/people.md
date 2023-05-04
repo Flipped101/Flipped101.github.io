@@ -35,12 +35,10 @@ toc: true
         <td width="32%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
-                    个人主页：
-                    <!-- <a href="https://github.com/leixiaoyuasdl" target="_blank">详情请点击</a> -->
-                    <br>
-                    研究方向：<br>
-                    兴趣爱好：<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：gilbert_pan@outlook.com<br>
+                    个人主页：<a href="http://jiabinpan.work/" target="_blank">详情请点击</a><br>
+                    研究方向：机器人运动控制、深度学习<br>
+                    兴趣爱好：羽毛球、阅读<br>
                 </p>
             </div>
         </td>
@@ -75,7 +73,7 @@ toc: true
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：529813537@qq.com<br>
                     个人主页：<br>
                     研究方向：机器人加工<br>
-                    兴趣爱好：阅读，音乐，运动<br>
+                    兴趣爱好：阅读、音乐、运动<br>
                 </p>
             </div>
         </td>
@@ -94,7 +92,7 @@ toc: true
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：myLucky1998@163.com<br>
                     个人主页：<br>
                     研究方向：机器人与3D视觉感知<br>
-                    兴趣爱好：羽毛球，数码<br>
+                    兴趣爱好：羽毛球、数码<br>
                 </p>
             </div>
         </td>
@@ -110,7 +108,7 @@ toc: true
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010012@stu.wit.edu.cn<br>
                     个人主页：<br>
                     研究方向：虚拟惯性里程计<br>
-                    兴趣爱好：书法，吉他<br>
+                    兴趣爱好：书法、吉他<br>
                 </p>
             </div>
         </td>
@@ -129,7 +127,7 @@ toc: true
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010041@stu.wit.edu.cn<br>
                     个人主页：<br>
                     研究方向：机器人运动控制、机器人技能学习<br>
-                    兴趣爱好：乒乓球，羽毛球<br>
+                    兴趣爱好：乒乓球、羽毛球<br>
                 </p>
             </div>
         </td>
@@ -164,7 +162,7 @@ toc: true
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：1489959038@qq.com<br>
                     个人主页：<br>
                     研究方向：机器人slam导航<br>
-                    兴趣爱好：足球，中国象棋<br>
+                    兴趣爱好：足球、中国象棋<br>
                 </p>
             </div>
         </td>
@@ -180,7 +178,7 @@ toc: true
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：2946294893@qq.com<br>
                     个人主页：<br>
                     研究方向：<br>
-                    兴趣爱好：跑步，电影，数码<br>
+                    兴趣爱好：跑步、电影、数码<br>
                 </p>
             </div>
         </td>
@@ -199,7 +197,7 @@ toc: true
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：chenfeiyoo@163.com<br>
                     个人主页：<br>
                     研究方向：<br>
-                    兴趣爱好：乒乓球，跑步<br>
+                    兴趣爱好：乒乓球、跑步<br>
                 </p>
             </div>
         </td>

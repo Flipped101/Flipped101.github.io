@@ -41,8 +41,23 @@ toc: true
 
 ### 2018
 [1]Fu Z, Chen X, Mao J, et al. An analytical force mode applied to three-dimensional turning based on a predictive machining theory [J]. International Journal of Mechanical Sciences, 2018, 136: 94-105.<br>
-<!-- <!-- 
-### 2016
+
+## 2.专利与软著
+### 2021
+[1]	机器人磨削路径规划软件V1.0，2021SR1589113<br>
+### 2020
+[1]	一种刀具轨迹生成方法、装置和铣削机器人ZL202010069844.7<br>
+
+### 2019
+[1]	一种机器人雅可比矩阵计算方法装置及存储介质ZL201910223255.7<br>
+[2]	一种机器人自动分步装配插销方法、系统和双臂机器人ZL201910556696.9<br>
+[3]	一种步进控制方法、装置、打磨机器人和可读存储介质ZL201910710011.1<br>
+[4]	机器人铣削后置处理软件V1.0，2019SR1168645<br>
+### 2018
+[1]	一种用于机器人装配的点激光线标定方法及系统ZL201811562980.9<br>
+
+
+<!-- ### 2016
 [1]	Fu Z, Yang W, Wang X, et al. An analytical force model for ball-end milling based on a predictive machining theory considering cutter runout [J]. The International Journal of Advanced Manufacturing Technology, 2016, 84: 2449-2460.<br>
 [2]	Fu Z, Yang W, Zhang Y, et al. Feed rate optimization of complex surface milling based on predictive model of cutting force [J]. Sci. Sin. Technol, 2016, 46: 722-730.<br>
 [3]	Fu Z-t, Yang W-y, Zeng S-q, et al. Identification of constitutive model parameters for nickel aluminum bronze in machining [J]. Transactions of Nonferrous Metals Society of China, 2016, 26(4): 1105-1111.<br>
@@ -59,18 +74,3 @@ toc: true
 ### 2013
 [1]	Fu Z, Yang W, Yang Z. Solution of inverse kinematics for 6R robot manipulators with offset wrist based on geometric algebra [J]. Journal of mechanisms and robotics, 2013, 5(3): 031010.<br>
 [2]	付中涛, 杨文玉, 杨震, et al. 非球型手腕 6R 机器人实时高精度逆运动学算法 [J]. 华中科技大学学报: 自然科学版, 2013, (S1): 29-33.<br> -->
-
-## 2.专利与软著
-### 2021
-[1]	机器人磨削路径规划软件V1.0，2021SR1589113<br>
-### 2020
-[1]	一种刀具轨迹生成方法、装置和铣削机器人ZL202010069844.7<br>
-
-### 2019
-[1]	一种机器人雅可比矩阵计算方法装置及存储介质ZL201910223255.7<br>
-[2]	一种机器人自动分步装配插销方法、系统和双臂机器人ZL201910556696.9<br>
-[3]	一种步进控制方法、装置、打磨机器人和可读存储介质ZL201910710011.1<br>
-[4]	机器人铣削后置处理软件V1.0，2019SR1168645<br>
-### 2018
-[1]	一种用于机器人装配的点激光线标定方法及系统ZL201811562980.9<br>
-
