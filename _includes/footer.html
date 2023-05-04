@@ -37,4 +37,10 @@
             return false;
             });
         });
+        document.onselectstart = new Function("event.returnValue=false;"); //禁止选择,也就是无法复制
+        // 禁用右键菜单、复制、选择
+        $(document).bind("contextmenu copy selectstart", function () {
+            return false;
+        });
 </script>
+
