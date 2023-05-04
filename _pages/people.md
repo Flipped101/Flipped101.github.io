@@ -19,10 +19,10 @@ toc: true
         <td width="32%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:16px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：481191507@qq.com<br>
                     个人主页：<br>
-                    研究方向：<br>
-                    兴趣爱好：<br>
+                    研究方向：机器人焊接<br>
+                    兴趣爱好：跑步<br>
                 </p>
             </div>
         </td>
