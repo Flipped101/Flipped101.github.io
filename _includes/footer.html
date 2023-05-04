@@ -28,3 +28,14 @@
   湖北省武汉市东湖新技术开发区光谷一路206号（430205）
 </p>
 </div>
+<!-- 引入 jQuery 库 -->
+<script src="http://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            /**阻止浏览器默认右键点击事件*/
+            $("html").bind("contextmenu", function () {
+                console.log("用户点击鼠标右键....."+new Date().getTime());
+                return false;
+            });
+        });
+</script>
