@@ -12,7 +12,7 @@ toc: true
     <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
                 <br>熊家豪（已毕业）
             </div>
         </td>
@@ -28,7 +28,7 @@ toc: true
         </td>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/潘嘉宾（已毕业）.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/潘嘉宾（已毕业）.jpg" alt="...">
                 <br>潘嘉宾（已毕业）
             </div>
         </td>
@@ -47,7 +47,7 @@ toc: true
     <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
                 <br>雷小榆
             </div>
         </td>
@@ -63,7 +63,7 @@ toc: true
         </td>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/高志成.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/高志成.jpg" alt="...">
                 <br>高志成
             </div>
         </td>
@@ -82,7 +82,7 @@ toc: true
     <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
                 <br>饶书航
             </div>
         </td>
@@ -98,7 +98,7 @@ toc: true
         </td>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/乐恒韬.png" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/乐恒韬.png" alt="...">
                 <br>乐恒韬
             </div>
         </td>
@@ -117,7 +117,7 @@ toc: true
     <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
                 <br>陈碧宇
             </div>
         </td>
@@ -135,7 +135,7 @@ toc: true
         </td>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
                 <br>吴松林
             </div>
         </td>
@@ -154,7 +154,7 @@ toc: true
     <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/文天.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/文天.jpg" alt="...">
                 <br>文天
             </div>
         </td>
@@ -170,7 +170,7 @@ toc: true
         </td>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/王法福.png" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/王法福.png" alt="...">
                 <br>王法福
             </div>
         </td>
@@ -189,7 +189,7 @@ toc: true
     <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
                 <br>陈飞扬
             </div>
         </td>
@@ -205,7 +205,7 @@ toc: true
         </td>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Sulei.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Sulei.jpg" alt="...">
                 <br>Sulei
             </div>
         </td>
@@ -224,7 +224,7 @@ toc: true
     <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
                 <br>MOHAMED <br>IBRAHIM AHMED
             </div>
         </td>
@@ -240,7 +240,7 @@ toc: true
         </td>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.25px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ruben.jpg" alt="...">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ruben.jpg" alt="...">
                 <br>Ruben
             </div>
         </td>
