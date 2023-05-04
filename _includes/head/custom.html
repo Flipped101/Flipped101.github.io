@@ -32,11 +32,7 @@
       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
       processEscapes: true
     }
-  });
-  document.onselectstart = new Function("event.returnValue=false;"); //禁止选择,也就是无法复制
-  // 禁用右键菜单、复制、选择
-  $(document).bind("contextmenu copy selectstart", function () {
-      return false;
+    window.oncontextmenu=function(e){e.preventDefault();}
   });
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
