@@ -26,14 +26,14 @@ toc: true
           </td>
           <td width="37.5%" style="border:0;">
           <div style="text-align: center;">
-               <video controls width="100%">
+               <video controls controlslist="nodownload" width="100%">
                     <source src="{{ site.url }}/images/research/研究进展1.mp4" type="video/MP4">
                </video>
           </div>
           </td>
           <td width="37.5%" style="border:0;">
           <div style="text-align: center;">
-               <video controls width="100%">
+               <video controls controlslist="nodownload" width="100%">
                     <source src="{{ site.url }}/images/research/研究进展2.mp4" type="video/MP4">
                </video>
           </div>
@@ -53,7 +53,7 @@ toc: true
      </td>
      <td width = "50%" style="border:0;">
           <div style="text-align: center;">
-               <video controls width="100%">
+               <video controls controlslist="nodownload" width="100%">
                     <source src="{{ site.url }}/images/research/研究进展3.mp4" type="video/MP4">
                </video>
           </div>
@@ -73,14 +73,14 @@ toc: true
           </td>
           <td width="37.5%" style="border:0;">
           <div style="text-align: center;">
-               <video controls width="100%">
+               <video controls controlslist="nodownload" width="100%">
                     <source src="{{ site.url }}/images/research/研究进展4.mp4" type="video/MP4">
                </video>
           </div>
           </td>
           <td width="37.5%" style="border:0;">
           <div style="text-align: center;">
-               <video controls width="100%">
+               <video controls controlslist="nodownload" width="100%">
                     <source src="{{ site.url }}/images/research/研究进展5.mp4" type="video/MP4">
                </video>
           </div>
@@ -99,7 +99,7 @@ toc: true
      </td>
      <td width = "40%" style="border:0;">
           <div style="text-align: center;">
-               <video controls width="60%">
+               <video controls controlslist="nodownload" width="60%">
                     <source src="{{ site.url }}/images/research/研究进展6.mp4" type="video/MP4">
                </video>
           </div>
