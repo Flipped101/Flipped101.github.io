@@ -205,8 +205,8 @@ toc: true
         </td>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Sulei.jpg" alt="...">
-                <br>Sulei
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ahmed Suleiman Ally.jpg" alt="...">
+                <br>Ahmed <br>Suleiman Ally
             </div>
         </td>
         <td width="32%">
