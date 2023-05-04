@@ -33,9 +33,8 @@
     <script type="text/javascript">
         $(function () {
             /**阻止浏览器默认右键点击事件*/
-            $("document").bind("contextmenu", function () {
-                console.log("用户点击鼠标右键....."+new Date().getTime());
-                return false;
+            $(document).bind("contextmenu copy selectstart", function () {
+            return false;
             });
         });
 </script>
