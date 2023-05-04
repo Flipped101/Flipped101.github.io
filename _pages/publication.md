@@ -41,7 +41,7 @@ toc: true
 
 ### 2018
 [1]Fu Z, Chen X, Mao J, et al. An analytical force mode applied to three-dimensional turning based on a predictive machining theory [J]. International Journal of Mechanical Sciences, 2018, 136: 94-105.<br>
-
+<!-- 
 ### 2016
 [1]	Fu Z, Yang W, Wang X, et al. An analytical force model for ball-end milling based on a predictive machining theory considering cutter runout [J]. The International Journal of Advanced Manufacturing Technology, 2016, 84: 2449-2460.<br>
 [2]	Fu Z, Yang W, Zhang Y, et al. Feed rate optimization of complex surface milling based on predictive model of cutting force [J]. Sci. Sin. Technol, 2016, 46: 722-730.<br>
@@ -58,7 +58,7 @@ toc: true
 
 ### 2013
 [1]	Fu Z, Yang W, Yang Z. Solution of inverse kinematics for 6R robot manipulators with offset wrist based on geometric algebra [J]. Journal of mechanisms and robotics, 2013, 5(3): 031010.<br>
-[2]	付中涛, 杨文玉, 杨震, et al. 非球型手腕 6R 机器人实时高精度逆运动学算法 [J]. 华中科技大学学报: 自然科学版, 2013, (S1): 29-33.<br>
+[2]	付中涛, 杨文玉, 杨震, et al. 非球型手腕 6R 机器人实时高精度逆运动学算法 [J]. 华中科技大学学报: 自然科学版, 2013, (S1): 29-33.<br> -->
 
 
 ## 2.专利与软著
