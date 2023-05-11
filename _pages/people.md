@@ -205,8 +205,8 @@ toc: true
         </td>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ahmed Suleiman Ally.jpg" alt="...">
-                <br>Ahmed <br>Suleiman Ally
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/罗梓戈.jpg" alt="...">
+                <br>罗梓戈
             </div>
         </td>
         <td width="32%">
@@ -224,6 +224,22 @@ toc: true
     <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ahmed Suleiman Ally.jpg" alt="...">
+                <br>Ahmed <br>Suleiman Ally
+            </div>
+        </td>
+        <td width="32%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:16px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
+                    个人主页：<br>
+                    研究方向：<br>
+                    兴趣爱好：<br>
+                </p>
+            </div>
+        </td>
+        <td width="17.5%">
+            <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
                 <br>MOHAMED <br>IBRAHIM AHMED
             </div>
@@ -238,6 +254,9 @@ toc: true
                 </p>
             </div>
         </td>
+    </tr>
+        <!--   -----------第8行 ----------------------  -->
+    <tr>
         <td width="17.5%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.3px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ruben Ngoy Mitendo.jpg" alt="...">
@@ -254,5 +273,21 @@ toc: true
                 </p>
             </div>
         </td>
+        <!-- <td width="17.5%">
+            <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162.3px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ruben Ngoy Mitendo.jpg" alt="...">
+                <br>
+            </div>
+        </td>
+        <td width="32%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:16px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
+                    个人主页：<br>
+                    研究方向：<br>
+                    兴趣爱好：<br>
+                </p>
+            </div>
+        </td> -->
     </tr>
 </table>
