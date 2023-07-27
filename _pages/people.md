@@ -181,7 +181,7 @@ toc: true
     <td width="18%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪.jpg" alt="...">
-                <br><p style = "font-size:6px">熊家豪</p>
+                <br>熊家豪
             </div>
         </td>
         <td width="32%">
@@ -197,7 +197,7 @@ toc: true
         <td width="18%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/潘嘉宾.jpg" alt="...">
-                <br><p style = "font-size:6px">潘嘉宾</p>
+                <br>潘嘉宾
             </div>
         </td>
         <td width="32%">
@@ -219,7 +219,7 @@ toc: true
     <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
-                <br><p style = "font-size:6px">雷小榆</p>
+                <br>雷小榆
             </div>
         </td>
         <td width="21.333%">
@@ -235,7 +235,7 @@ toc: true
         <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/高志成.jpg" alt="...">
-                <br><p style = "font-size:6px">高志成</p>
+                <br>高志成
             </div>
         </td>
         <td width="21.333%">
