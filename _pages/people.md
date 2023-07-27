@@ -98,7 +98,7 @@ toc: true
         <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/乐恒韬.jpg" alt="...">
-                <br>乐恒韬
+                <br><a href="https://www.cnblogs.com/yhtengineer/" target="_blank">详情请点击</a><br>
             </div>
         </td>
         <td width="16%">
