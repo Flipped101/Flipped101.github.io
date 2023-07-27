@@ -13,8 +13,8 @@ toc: true
     <tr>
         <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
-                <br><p style = "font-size:6px">熊家豪（已毕业）</p>
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪.jpg" alt="...">
+                <br><p style = "font-size:6px">熊家豪</p>
             </div>
         </td>
         <td width="16%">
@@ -29,8 +29,8 @@ toc: true
         </td>
         <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/潘嘉宾（已毕业）.jpg" alt="...">
-                <br><p style = "font-size:6px">潘嘉宾（已毕业）</p>
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/潘嘉宾.jpg" alt="...">
+                <br><p style = "font-size:6px">潘嘉宾</p>
             </div>
         </td>
         <td width="16%">
