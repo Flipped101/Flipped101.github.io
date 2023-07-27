@@ -14,14 +14,14 @@ toc: true
     <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/乐恒韬.jpg" alt="...">
-                <br><a href="https://www.cnblogs.com/yhtengineer/" target="_blank">详情请点击</a><br>
+                <br>乐恒韬
             </div>
         </td>
         <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010012@stu.wit.edu.cn<br>
-                    个人主页：<br>
+                    个人主页：<a href="https://www.cnblogs.com/yhtengineer/" target="_blank">详情请点击</a><br>
                     研究方向：虚拟惯性里程计<br>
                     兴趣爱好：书法、吉他<br>
                 </p>
