@@ -7,10 +7,13 @@ toc: true
 ---
 
 <br>
+
+<h2>在读研究生</h2>
+
 <table>
 <!--   -----------第1行 ----------------------  -->
     <tr>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
                 <br>熊家豪（已毕业）
@@ -26,7 +29,7 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/潘嘉宾（已毕业）.jpg" alt="...">
                 <br>潘嘉宾（已毕业）
@@ -45,7 +48,7 @@ toc: true
     </tr>
     <!--   -----------第2行 ----------------------  -->
     <tr>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
                 <br>雷小榆
@@ -61,7 +64,7 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/高志成.jpg" alt="...">
                 <br>高志成
@@ -80,7 +83,7 @@ toc: true
     </tr>
 <!--   -----------第3行 ----------------------  -->
     <tr>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
                 <br>饶书航
@@ -96,7 +99,7 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/乐恒韬.png" alt="...">
                 <br>乐恒韬
@@ -115,7 +118,7 @@ toc: true
     </tr>
     <!--   -----------第4行 ----------------------  -->
     <tr>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
                 <br>陈碧宇
@@ -133,7 +136,7 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
                 <br>吴松林
@@ -152,7 +155,7 @@ toc: true
     </tr>
     <!--   -----------第5行 ----------------------  -->
     <tr>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/文天.jpg" alt="...">
                 <br>文天
@@ -168,7 +171,7 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/王法福.png" alt="...">
                 <br>王法福
@@ -187,7 +190,7 @@ toc: true
     </tr>
     <!--   -----------第6行 ----------------------  -->
     <tr>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
                 <br>陈飞扬
@@ -203,7 +206,7 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/罗梓戈.jpg" alt="...">
                 <br>罗梓戈
@@ -222,7 +225,7 @@ toc: true
     </tr>
     <!--   -----------第7行 ----------------------  -->
     <tr>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ahmed Suleiman Ally.jpg" alt="...">
                 <br>Ahmed <br>Suleiman Ally
@@ -238,7 +241,7 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
                 <br>MOHAMED <br>IBRAHIM AHMED
@@ -257,7 +260,7 @@ toc: true
     </tr>
         <!--   -----------第8行 ----------------------  -->
     <tr>
-        <td width="17.5%">
+        <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.3px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ruben Ngoy Mitendo.jpg" alt="...">
                 <br>Ruben <br>Ngoy Mitendo
@@ -273,7 +276,7 @@ toc: true
                 </p>
             </div>
         </td>
-        <!-- <td width="17.5%">
+        <!-- <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162.3px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ruben Ngoy Mitendo.jpg" alt="...">
                 <br>
@@ -291,3 +294,6 @@ toc: true
         </td> -->
     </tr>
 </table>
+
+<h2>已毕业研究生</h2>
+<table></table>
