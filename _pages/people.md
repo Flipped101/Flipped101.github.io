@@ -53,7 +53,7 @@ toc: true
 <h3>22级</h3>
 <table>
     <!--   -----------第2行 ----------------------  -->
-    <tr>
+    <tr width="50%">
         <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
@@ -85,8 +85,6 @@ toc: true
                     兴趣爱好：足球、中国象棋<br>
                 </p>
             </div>
-        </td>
-        <td width="50%">
         </td>
     </tr>
 </table>
