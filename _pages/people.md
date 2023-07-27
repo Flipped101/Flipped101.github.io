@@ -11,7 +11,169 @@ toc: true
 <!--   -----------第1行 ----------------------  -->
 <h3>21级</h3>
     <tr>
+    <td width="9%">
+            <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/乐恒韬.jpg" alt="...">
+                <br><a href="https://www.cnblogs.com/yhtengineer/" target="_blank">详情请点击</a><br>
+            </div>
+        </td>
+        <td width="16%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:9px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010012@stu.wit.edu.cn<br>
+                    个人主页：<br>
+                    研究方向：虚拟惯性里程计<br>
+                    兴趣爱好：书法、吉他<br>
+                </p>
+            </div>
+        </td>
+    <td width="9%">
+            <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
+                <br>陈碧宇
+            </div>
+        </td>
+        <td width="16%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:9px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010041@stu.wit.edu.cn<br>
+                    个人主页：<br>
+                    研究方向：机器人运动控制、机器人技 
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    能学习<br>
+                    兴趣爱好：乒乓球、羽毛球<br>
+                </p>
+            </div>
+        </td>
+    </tr>
+    <!--   -----------第2行 ----------------------  -->
+    <h3>22级</h3>
+    <tr>
         <td width="9%">
+            <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
+                <br>吴松林
+            </div>
+        </td>
+        <td width="16%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:9px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：824342197@qq.com<br>
+                    个人主页：<br>
+                    研究方向：机器学习、机器人技能学习<br>
+                    兴趣爱好：羽毛球<br>
+                </p>
+            </div>
+        </td>
+        <td width="9%">
+            <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/文天.jpg" alt="...">
+                <br>文天
+            </div>
+        </td>
+        <td width="16%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:9px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：1489959038@qq.com<br>
+                    个人主页：<br>
+                    研究方向：机器人slam导航<br>
+                    兴趣爱好：足球、中国象棋<br>
+                </p>
+            </div>
+        </td>
+    </tr>
+<!--   -----------第3行 ----------------------  -->
+    <h3>23级</h3>
+    <tr>
+    <td width="9%">
+            <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/王法福.png" alt="...">
+                <br>王法福
+            </div>
+        </td>
+        <td width="16%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:9px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：2946294893@qq.com<br>
+                    个人主页：<br>
+                    研究方向：<br>
+                    兴趣爱好：跑步、电影、数码<br>
+                </p>
+            </div>
+        </td>
+        <td width="9%">
+            <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/罗梓戈.jpg" alt="...">
+                <br>罗梓戈
+            </div>
+        </td>
+        <td width="16%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:9px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
+                    个人主页：<br>
+                    研究方向：<br>
+                    兴趣爱好：<br>
+                </p>
+            </div>
+        </td>
+        <td width="9%">
+            <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162.3px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/赵康康.jpg" alt="...">
+                <br>赵康康
+            </div>
+        </td>
+        <td width="16%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:9px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
+                    个人主页：<br>
+                    研究方向：<br>
+                    兴趣爱好：<br>
+                </p>
+            </div>
+        </td>
+        <td width="9%">
+            <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
+                <br>陈飞扬
+            </div>
+        </td>
+        <td width="16%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:9px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：chenfeiyoo@163.com<br>
+                    个人主页：<br>
+                    研究方向：<br>
+                    兴趣爱好：乒乓球、跑步<br>
+                </p>
+            </div>
+        </td>
+    </tr>
+        <!-- <td width="9%">
+            <div style="text-align: center; margin:0 0 0 0;">
+                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ahmed Suleiman Ally.jpg" alt="...">
+                <br>Ahmed <br>Suleiman Ally
+            </div>
+        </td>
+        <td width="16%">
+            <div style="text-align: left; margin:0 0 0 5%;">
+                <p style = "line-height:2; font-size:9px">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
+                    个人主页：<br>
+                    研究方向：<br>
+                    兴趣爱好：<br>
+                </p>
+            </div>
+        </td> -->
+</table>
+
+<h2>已毕业研究生</h2>
+<table>
+<h3>19级</h3>
+        <!--   -----------第1行 ----------------------  -->
+    <tr>
+    <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪.jpg" alt="...">
                 <br><p style = "font-size:6px">熊家豪</p>
@@ -43,7 +205,11 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="9%">
+    </tr>
+<h3>20级</h3>
+        <!--   -----------第2行 ----------------------  -->
+    <tr>
+    <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
                 <br><p style = "font-size:6px">雷小榆</p>
@@ -75,10 +241,6 @@ toc: true
                 </p>
             </div>
         </td>
-    </tr>
-    <!--   -----------第2行 ----------------------  -->
-<!--   -----------第3行 ----------------------  -->
-    <tr>
         <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
@@ -95,149 +257,11 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="9%">
-            <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/乐恒韬.jpg" alt="...">
-                <br><a href="https://www.cnblogs.com/yhtengineer/" target="_blank">详情请点击</a><br>
-            </div>
-        </td>
-        <td width="16%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:9px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010012@stu.wit.edu.cn<br>
-                    个人主页：<br>
-                    研究方向：虚拟惯性里程计<br>
-                    兴趣爱好：书法、吉他<br>
-                </p>
-            </div>
-        </td>
     </tr>
-    <!--   -----------第4行 ----------------------  -->
+<h3>留学生</h3>
+        <!--   -----------第3行 ----------------------  -->
     <tr>
-        <td width="9%">
-            <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
-                <br>陈碧宇
-            </div>
-        </td>
-        <td width="16%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:9px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010041@stu.wit.edu.cn<br>
-                    个人主页：<br>
-                    研究方向：机器人运动控制、机器人技 
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    能学习<br>
-                    兴趣爱好：乒乓球、羽毛球<br>
-                </p>
-            </div>
-        </td>
-        <td width="9%">
-            <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
-                <br>吴松林
-            </div>
-        </td>
-        <td width="16%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:9px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：824342197@qq.com<br>
-                    个人主页：<br>
-                    研究方向：机器学习、机器人技能学习<br>
-                    兴趣爱好：羽毛球<br>
-                </p>
-            </div>
-        </td>
-    </tr>
-    <!--   -----------第5行 ----------------------  -->
-    <tr>
-        <td width="9%">
-            <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/文天.jpg" alt="...">
-                <br>文天
-            </div>
-        </td>
-        <td width="16%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:9px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：1489959038@qq.com<br>
-                    个人主页：<br>
-                    研究方向：机器人slam导航<br>
-                    兴趣爱好：足球、中国象棋<br>
-                </p>
-            </div>
-        </td>
-        <td width="9%">
-            <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/王法福.png" alt="...">
-                <br>王法福
-            </div>
-        </td>
-        <td width="16%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:9px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：2946294893@qq.com<br>
-                    个人主页：<br>
-                    研究方向：<br>
-                    兴趣爱好：跑步、电影、数码<br>
-                </p>
-            </div>
-        </td>
-    </tr>
-    <!--   -----------第6行 ----------------------  -->
-    <tr>
-        <td width="9%">
-            <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
-                <br>陈飞扬
-            </div>
-        </td>
-        <td width="16%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:9px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：chenfeiyoo@163.com<br>
-                    个人主页：<br>
-                    研究方向：<br>
-                    兴趣爱好：乒乓球、跑步<br>
-                </p>
-            </div>
-        </td>
-        <td width="9%">
-            <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/罗梓戈.jpg" alt="...">
-                <br>罗梓戈
-            </div>
-        </td>
-        <td width="16%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:9px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
-                    个人主页：<br>
-                    研究方向：<br>
-                    兴趣爱好：<br>
-                </p>
-            </div>
-        </td>
-    </tr>
-    <!--   -----------第7行 ----------------------  -->
-    <tr>
-        <td width="9%">
-            <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ahmed Suleiman Ally.jpg" alt="...">
-                <br>Ahmed <br>Suleiman Ally
-            </div>
-        </td>
-        <td width="16%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:9px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
-                    个人主页：<br>
-                    研究方向：<br>
-                    兴趣爱好：<br>
-                </p>
-            </div>
-        </td>
-        <td width="9%">
+    <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
                 <br>MOHAMED <br>IBRAHIM AHMED
@@ -254,26 +278,4 @@ toc: true
             </div>
         </td>
     </tr>
-        <!--   -----------第8行 ----------------------  -->
-    <tr>
-        <td width="9%">
-            <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.3px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/赵康康.jpg" alt="...">
-                <br>赵康康
-            </div>
-        </td>
-        <td width="16%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:9px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
-                    个人主页：<br>
-                    研究方向：<br>
-                    兴趣爱好：<br>
-                </p>
-            </div>
-        </td>
-    </tr>
 </table>
-
-<h2>已毕业研究生</h2>
-<table></table>
