@@ -11,15 +11,15 @@ toc: true
 <table>
 <!--   -----------第1行 ----------------------  -->
     <tr>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/熊家豪（已毕业）.jpg" alt="...">
-                <br>熊家豪（已毕业）
+                <br><p style = "font-size:6px">熊家豪（已毕业）</p>
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：481191507@qq.com<br>
                     个人主页：<br>
                     研究方向：机器人焊接<br>
@@ -27,15 +27,15 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/潘嘉宾（已毕业）.jpg" alt="...">
-                <br>潘嘉宾（已毕业）
+                <br><p style = "font-size:6px">潘嘉宾（已毕业）</p>
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：gilbert_pan@outlook.com<br>
                     个人主页：<a href="http://jiabinpan.work/" target="_blank">详情请点击</a><br>
                     研究方向：机器人运动控制、深度学习<br>
@@ -43,15 +43,15 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
-                <br>雷小榆
+                <br><p style = "font-size:6px">雷小榆</p>
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：1945367227@qq.com<br>
                     个人主页：<a href="https://github.com/leixiaoyuasdl" target="_blank">详情请点击</a><br>
                     研究方向：机器人视觉伺服<br>
@@ -59,15 +59,15 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/高志成.jpg" alt="...">
-                <br>高志成
+                <br><p style = "font-size:6px">高志成</p>
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：529813537@qq.com<br>
                     个人主页：<br>
                     研究方向：机器人加工<br>
@@ -79,15 +79,15 @@ toc: true
     <!--   -----------第2行 ----------------------  -->
 <!--   -----------第3行 ----------------------  -->
     <tr>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/饶书航.jpg" alt="...">
                 <br>饶书航
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：myLucky1998@163.com<br>
                     个人主页：<br>
                     研究方向：机器人与3D视觉感知<br>
@@ -95,15 +95,15 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/乐恒韬.png" alt="...">
                 <br>乐恒韬
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010012@stu.wit.edu.cn<br>
                     个人主页：<br>
                     研究方向：虚拟惯性里程计<br>
@@ -114,15 +114,15 @@ toc: true
     </tr>
     <!--   -----------第4行 ----------------------  -->
     <tr>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈碧宇.jpg" alt="...">
                 <br>陈碧宇
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010041@stu.wit.edu.cn<br>
                     个人主页：<br>
                     研究方向：机器人运动控制、机器人技 
@@ -132,15 +132,15 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/吴松林.jpg" alt="...">
                 <br>吴松林
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：824342197@qq.com<br>
                     个人主页：<br>
                     研究方向：机器学习、机器人技能学习<br>
@@ -151,15 +151,15 @@ toc: true
     </tr>
     <!--   -----------第5行 ----------------------  -->
     <tr>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/文天.jpg" alt="...">
                 <br>文天
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：1489959038@qq.com<br>
                     个人主页：<br>
                     研究方向：机器人slam导航<br>
@@ -167,15 +167,15 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/王法福.png" alt="...">
                 <br>王法福
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：2946294893@qq.com<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -186,15 +186,15 @@ toc: true
     </tr>
     <!--   -----------第6行 ----------------------  -->
     <tr>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/陈飞扬.jpg" alt="...">
                 <br>陈飞扬
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：chenfeiyoo@163.com<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -202,15 +202,15 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/罗梓戈.jpg" alt="...">
                 <br>罗梓戈
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -221,15 +221,15 @@ toc: true
     </tr>
     <!--   -----------第7行 ----------------------  -->
     <tr>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ahmed Suleiman Ally.jpg" alt="...">
                 <br>Ahmed <br>Suleiman Ally
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -237,15 +237,15 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/MOHAMED IBRAHIM AHMED.jpg" alt="...">
                 <br>MOHAMED <br>IBRAHIM AHMED
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -256,15 +256,15 @@ toc: true
     </tr>
         <!--   -----------第8行 ----------------------  -->
     <tr>
-        <td width="12%">
+        <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.3px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ruben Ngoy Mitendo.jpg" alt="...">
-                <br>Ruben <br>Ngoy Mitendo
+                <img align="" width="162.3px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/赵康康.jpg" alt="...">
+                <br>赵康康
             </div>
         </td>
-        <td width="20%">
+        <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
+                <p style = "line-height:2; font-size:9px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -272,22 +272,6 @@ toc: true
                 </p>
             </div>
         </td>
-        <!-- <td width="12%">
-            <div style="text-align: center; margin:0 0 0 0;">
-                <img align="" width="162.3px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/Ruben Ngoy Mitendo.jpg" alt="...">
-                <br>
-            </div>
-        </td>
-        <td width="20%">
-            <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:13px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
-                    个人主页：<br>
-                    研究方向：<br>
-                    兴趣爱好：<br>
-                </p>
-            </div>
-        </td> -->
     </tr>
 </table>
 
