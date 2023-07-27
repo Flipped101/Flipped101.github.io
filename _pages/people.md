@@ -7,9 +7,10 @@ toc: true
 ---
 
 <h2>在读研究生</h2>
+<h3>21级</h3>
+
 <table>
 <!--   -----------第1行 ----------------------  -->
-<h3>21级</h3>
     <tr>
     <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
@@ -46,10 +47,10 @@ toc: true
             </div>
         </td>
     </tr>
-    </table>
-    <table>
-    <!--   -----------第2行 ----------------------  -->
+    </table><br>
     <h3>22级</h3>
+<table>
+    <!--   -----------第2行 ----------------------  -->
     <tr>
         <td width="9%">
             <div style="text-align: center; margin:0 0 0 0;">
@@ -84,17 +85,17 @@ toc: true
             </div>
         </td>
     </tr>
-        </table>
-    <table>
-<!--   -----------第3行 ----------------------  -->
+</table><br>
     <h3>23级</h3>
+<table>
+<!--   -----------第3行 ----------------------  -->
     <tr>
     <td width="9%">
-            <div style="text-align: center; margin:0 0 0 0;">
+        <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%; " src="{{ site.url }}/images/people/王法福.png" alt="...">
                 <br>王法福
             </div>
-        </td>
+    </td>
         <td width="16%">
             <div style="text-align: left; margin:0 0 0 5%;">
                 <p style = "line-height:2; font-size:9px">
@@ -170,11 +171,11 @@ toc: true
                 </p>
             </div>
         </td> -->
-</table>
+</table><br>
 
 <h2>已毕业研究生</h2>
-<table>
 <h3>19级</h3>
+<table>
         <!--   -----------第1行 ----------------------  -->
     <tr>
     <td width="9%">
@@ -210,9 +211,9 @@ toc: true
             </div>
         </td>
     </tr>
-        </table>
-    <table>
+</table><br>
 <h3>20级</h3>
+<table>
         <!--   -----------第2行 ----------------------  -->
     <tr>
     <td width="9%">
@@ -264,9 +265,9 @@ toc: true
             </div>
         </td>
     </tr>
-        </table>
-    <table>
+</table>
 <h3>留学生</h3>
+<table>
         <!--   -----------第3行 ----------------------  -->
     <tr>
     <td width="9%">
@@ -286,4 +287,4 @@ toc: true
             </div>
         </td>
     </tr>
-</table>
+</table><br>
