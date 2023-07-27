@@ -46,16 +46,10 @@ toc: true
                 </p>
             </div>
         </td>
-        <td width="9%">
-        </td>
-        <td width="16%">
-        </td>
-        <td width="9%">
-        </td>
-        <td width="16%">
+        <td width="50%">
         </td>
     </tr>
-    </table><br>
+    </table>
 <h3>22级</h3>
 <table>
     <!--   -----------第2行 ----------------------  -->
@@ -92,8 +86,10 @@ toc: true
                 </p>
             </div>
         </td>
+        <td width="50%">
+        </td>
     </tr>
-</table><br>
+</table>
 <h3>23级</h3>
 <table>
 <!--   -----------第3行 ----------------------  -->
@@ -179,7 +175,7 @@ toc: true
                 </p>
             </div>
         </td> -->
-</table><br>
+</table>
 
 <h2>已毕业研究生</h2>
 <h3>19级</h3>
@@ -218,8 +214,10 @@ toc: true
                 </p>
             </div>
         </td>
+        <td width="50%">
+        </td>
     </tr>
-</table><br>
+</table>
 <h3>20级</h3>
 <table>
         <!--   -----------第2行 ----------------------  -->
@@ -272,6 +270,8 @@ toc: true
                 </p>
             </div>
         </td>
+        <td width="25%">
+        </td>
     </tr>
 </table>
 <h3>留学生</h3>
@@ -294,5 +294,7 @@ toc: true
                 </p>
             </div>
         </td>
+        <td width="75%">
+        </td>
     </tr>
-</table><br>
+</table>
