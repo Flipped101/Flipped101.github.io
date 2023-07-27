@@ -6,10 +6,8 @@ author_profile: true
 toc: true
 ---
 
-<br>
-
 <h2>在读研究生</h2>
-
+<h3>研三</h3>
 <table>
 <!--   -----------第1行 ----------------------  -->
     <tr>
@@ -19,9 +17,9 @@ toc: true
                 <br>熊家豪（已毕业）
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：481191507@qq.com<br>
                     个人主页：<br>
                     研究方向：机器人焊接<br>
@@ -35,9 +33,9 @@ toc: true
                 <br>潘嘉宾（已毕业）
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：gilbert_pan@outlook.com<br>
                     个人主页：<a href="http://jiabinpan.work/" target="_blank">详情请点击</a><br>
                     研究方向：机器人运动控制、深度学习<br>
@@ -45,18 +43,15 @@ toc: true
                 </p>
             </div>
         </td>
-    </tr>
-    <!--   -----------第2行 ----------------------  -->
-    <tr>
         <td width="12%">
             <div style="text-align: center; margin:0 0 0 0;">
                 <img align="" width="162px" height="227.15px" style="border-radius: 5% 5% 5% 5%;" src="{{ site.url }}/images/people/雷小榆.jpg" alt="...">
                 <br>雷小榆
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：1945367227@qq.com<br>
                     个人主页：<a href="https://github.com/leixiaoyuasdl" target="_blank">详情请点击</a><br>
                     研究方向：机器人视觉伺服<br>
@@ -70,9 +65,9 @@ toc: true
                 <br>高志成
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：529813537@qq.com<br>
                     个人主页：<br>
                     研究方向：机器人加工<br>
@@ -81,6 +76,7 @@ toc: true
             </div>
         </td>
     </tr>
+    <!--   -----------第2行 ----------------------  -->
 <!--   -----------第3行 ----------------------  -->
     <tr>
         <td width="12%">
@@ -89,9 +85,9 @@ toc: true
                 <br>饶书航
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：myLucky1998@163.com<br>
                     个人主页：<br>
                     研究方向：机器人与3D视觉感知<br>
@@ -105,9 +101,9 @@ toc: true
                 <br>乐恒韬
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010012@stu.wit.edu.cn<br>
                     个人主页：<br>
                     研究方向：虚拟惯性里程计<br>
@@ -124,9 +120,9 @@ toc: true
                 <br>陈碧宇
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：22102010041@stu.wit.edu.cn<br>
                     个人主页：<br>
                     研究方向：机器人运动控制、机器人技 
@@ -142,9 +138,9 @@ toc: true
                 <br>吴松林
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：824342197@qq.com<br>
                     个人主页：<br>
                     研究方向：机器学习、机器人技能学习<br>
@@ -161,9 +157,9 @@ toc: true
                 <br>文天
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：1489959038@qq.com<br>
                     个人主页：<br>
                     研究方向：机器人slam导航<br>
@@ -177,9 +173,9 @@ toc: true
                 <br>王法福
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：2946294893@qq.com<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -196,9 +192,9 @@ toc: true
                 <br>陈飞扬
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：chenfeiyoo@163.com<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -212,9 +208,9 @@ toc: true
                 <br>罗梓戈
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -231,9 +227,9 @@ toc: true
                 <br>Ahmed <br>Suleiman Ally
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -247,9 +243,9 @@ toc: true
                 <br>MOHAMED <br>IBRAHIM AHMED
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -266,9 +262,9 @@ toc: true
                 <br>Ruben <br>Ngoy Mitendo
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
                     个人主页：<br>
                     研究方向：<br>
@@ -282,9 +278,9 @@ toc: true
                 <br>
             </div>
         </td>
-        <td width="32%">
+        <td width="20%">
             <div style="text-align: left; margin:0 0 0 5%;">
-                <p style = "line-height:2; font-size:16px">
+                <p style = "line-height:2; font-size:13px">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<br>
                     个人主页：<br>
                     研究方向：<br>
